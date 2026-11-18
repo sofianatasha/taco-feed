@@ -70,5 +70,14 @@
    "OpenAI released GPT-6.2 Astra for complex work and GPT-6.2 Sol for everyday work. Microsoft introduced seven MAI models at Ignite.",
    "Both GPT-6.2 models are already live in GitHub Copilot."
   ]
+ },
+ {
+  "id": "local",
+  "label": "Local citations in AI",
+  "lines": [
+   "New data shows which sources Google uses for local businesses in Maps and AI answers.",
+   "Whitespark found the business website in 86% of Maps Web Results and Facebook in 41%, across 21,000+ businesses. Dan Hinckley shows a local business named in 94% of Google AI answers after SEO work.",
+   "Keep client websites, Facebook pages and core citations complete and correct."
+  ]
  }
 ]

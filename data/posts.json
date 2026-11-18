@@ -1,6 +1,96 @@
 [
  {
   "kind": "x",
+  "url": "https://x.com/CyrusShepard/status/2123096552009015643",
+  "name": "Cyrus SEO",
+  "sub": "CyrusShepard",
+  "avatar": "https://pbs.twimg.com/profile_images/2107302110866063360/UmdziLzu_bigger.jpg",
+  "text": "New: What Content Earns Backlinks on Autopilot? 535-Site Study\n\nUsing @ahrefs we analyzed the top-linked content across 100s of sites, looking for URLs that earned links year-over-year.\n\nBlog posts performed badly, but we identified 20 winning content types you can create instead",
+  "img": "https://pbs.twimg.com/media/HXa7xujbAAQd983.jpg",
+  "likes": 7,
+  "replies": 2,
+  "ts": "2026-11-18T16:50:37+00:00",
+  "col": "s",
+  "sum": "Cyrus Shepard and Ahrefs studied the top-linked content on 535 sites to find pages that earn links year after year. Blog posts did badly. The study lists 20 content types that earn links on their own.",
+  "themes": []
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/AravSrinivas/status/2123085971625476277",
+  "name": "Aravind Srinivas",
+  "sub": "AravSrinivas",
+  "avatar": "https://pbs.twimg.com/profile_images/2099903483457703936/U-W6QQk__bigger.jpg",
+  "text": "Introducing Perplexity Context API: allows you to fetch useful content from a list of webpages in whatever target format you seek. Usable inside any agentic harness. Outperforms anything else out there on performance, latency, and costs.",
+  "img": null,
+  "likes": 104,
+  "replies": 40,
+  "ts": "2026-11-18T16:08:35+00:00",
+  "col": "t",
+  "sum": "Perplexity launches the Context API. It pulls content from a list of web pages in the format you choose, and it works inside any agent tool.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/darrenshawwhitespark_google-released-a-free-ai-tool-that-will-share-7528849253222424576-UGky/",
+  "name": "Darren Shaw",
+  "sub": "Founder, Whitespark",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGPRN78FYknrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685132735631?e=2147483647&v=beta&t=UqYA3gtwvph8Yb0r_rahU1g5IkXAz_R8M-wzWwu2sag",
+  "text": "Google released a free AI tool that will fact-check your content before you publish it.\n \nIt's called Deep Review, and it looks very useful for SEOs creating content for their clients.\n \nYou upload a document, and Google's AI analyzes it to find:\n \n- factual errors and unsupported claims\n- inconsistencies and gaps in logic\n- claims that need stronger evidence\n- areas that could use more explanation\n \nIt then gives you a detailed report showing what might be wrong and how you could improve it.\n \nYou could use this for:\n \n- website content\n- case studies\n- client reports\n- research-heavy blog posts\n- and even presentations\n \nYou get two free reviews every week.\n \nLet me know if you want a link to the tool. | 12 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D5622AQFXx5TWDYn8KA/feedshare-shrink_800/B56aHvYgCgIsAo-/0/1795017540220?e=2147483647&v=beta&t=fsoFKi0C2deBeSqW_WHXc1WBhnDjbA1V8u1BdpPLnjM",
+  "ts": "2026-11-18T15:59:01.223000+00:00",
+  "col": "g",
+  "sum": "Google released Deep Review, a free AI tool that fact-checks a document before you publish it. It flags factual errors, unsupported claims and gaps in logic. You get two free reviews a week.",
+  "themes": []
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/dejanseo/status/2123072974072992011",
+  "name": "DEJAN",
+  "sub": "dejanseo",
+  "avatar": "https://pbs.twimg.com/profile_images/1697227683275706368/LE-IgoQw_bigger.jpg",
+  "text": "Google's AI Mode now defaults to its Gemini 4 Hydrogen model, which directly influences how brands are presented in AI Overviews. To see how this affects brand perception, we tested what Hydrogen knows about us from memory, compared to what it says when it can search the live",
+  "img": "https://pbs.twimg.com/amplify_video_thumb/2123072389701623808/img/00ZcITfpUO4xcp2H.jpg",
+  "likes": 15,
+  "replies": 0,
+  "ts": "2026-11-18T15:16:56+00:00",
+  "col": "g",
+  "sum": "AI Mode now runs on Gemini 4 Hydrogen by default. DEJAN compared what Hydrogen says about a brand from memory with what it says when it searches the live web.",
+  "themes": [
+   "hydrogen"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/danielhinckley_geo-case-study-for-local-business-ugcPost-7528829565721526273-H5Nr/",
+  "name": "Dan Hinckley",
+  "sub": "Head of AI, Herringbone Digital",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQE_kpRoRiYuNQ/profile-displayphoto-scale_400_400/B4EZfvZDomH0Ak-/0/1752068013073?e=2147483647&v=beta&t=dUeyDeJek-abqXitsRp9kc1BXVfodFnnQLGuhefEwYM",
+  "text": "SEO & GEO Case Study: Google's AI now recommends this local business in 94% of its answers. Before, rarely if ever.\n\nIt started with SEO.\n\nI don't believe a local business can get good AI results without a solid SEO plan. You have to be found first by search engines. Then your pages have to give the AI models enough details so it can generate solid answers for everything a user may be looking for.\n\nWe tested that on a local services business in 11 U.S. cities, in two steps.\n\nStep one: get found.\nTitles, descriptions, headings and 125 image descriptions. all the standard SEO best practices so Google can find and read every page.\n\nStep two: give AI what it's looking for.\n - Match the intent. One search is really several questions: price, what's included, who it's for, where, who teaches. Google AI Overviews & ChatGPT extract just the sections of your page that it believes is likely to have what the user needs, so providing all the detail in the right places makes a difference. \n - Analyze the query fan-out. AI asks the questions behind the query. We answered 55 of them for the business's most important revenue driving queries & prompts.\n- Be specific. Real prices. Named neighborhoods and venues. Credentials about the business and the founders. Details an AI can easily consume and verify.\n\nThe results, two months after relaunch:\n• 35 popular searches in Google's top 3. In August, none.\n• 5× the monthly clicks from those top spots.\n• Recommended in 94% of Google's AI answers. Cited in 95%.\n\nMore traffic from search. AI recommending the business by name. That is the path to more leads and revenue, which is what every local business is looking for.\n\nGEO doesn't replace SEO. It takes great SEO past the keyword or topic, into the user's full need and the verification an AI does before it recommends you.\n\nThe charts are in the slides. The full study, written with Clara Sherman, can be found on our website.",
+  "img": "https://media.licdn.com/dms/image/v2/D4E1FAQGwAwjhbYgkfw/feedshare-document-cover-images_480/B4EaHvFCOUGsBA-/0/1795012437956?e=2147483647&v=beta&t=Mc5BGIE_wPwH7qPJ60WdmCGvu3zPXhHltXnhxhBi2ZE\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4E1FAQGwAwjhbYgkfw/feedshare-document-cover-images_480/B4EaHvFCOUGsBA-/1/1795012437956?e=2147483647&v=beta&t=GuT_eQwe21NgzEEeeL7Z3i-1vjHwMZkHDO9dJhOiuL0\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4E1FAQGwAwjhbYgkfw/feedshare-document-cover-images_480/B4EaHvFCOUGsBA-/2/1795012437956?e=2147483647&v=beta&t=9D4elNiz-mL3OmpVYgn0Qg0Nlab5Yzq0YRvYrI_OGnk\"}}],\"enableTopbarAuthor\":false,\"inbugUrl\":\"https://www.linkedin.com/feed/update/urn:li:ugcPost:7528829565721526273\",\"height\":492,\"scanUnavailableOnAccessibilityModeTitle\":\"Sign",
+  "ts": "2026-11-18T14:40:47.357000+00:00",
+  "col": "s",
+  "sum": "A local services business went from rare mentions to 94% of Google's AI answers, tested in 11 US cities. Dan Hinckley says it started with SEO: get found first, then give each page enough detail for AI models to answer from.",
+  "themes": [
+   "local"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/Reuters/status/2123061218445234538",
+  "name": "Reuters",
+  "sub": "Reuters",
+  "avatar": "https://pbs.twimg.com/profile_images/1874154135869616128/nJDmubGJ_bigger.jpg",
+  "text": "🔊 Anthropic prices its long-awaited IPO into one of the most nervous tech markets in years. Today’s episode of the Reuters Morning Bid podcast looks at what it says about appetite for AI stocks reut.rs/4Cpedgu",
+  "img": "https://pbs.twimg.com/media/HXag7DHWYAErMVT.jpg",
+  "likes": 3,
+  "replies": 4,
+  "ts": "2026-11-18T14:30:13+00:00",
+  "col": "t",
+  "sum": "Anthropic prices its IPO in one of the most nervous tech markets in years. Reuters looks at what the pricing says about demand for AI stocks.",
+  "themes": []
+ },
+ {
+  "kind": "x",
   "url": "https://x.com/sejournal/status/2123053844418408547",
   "name": "SearchEngineJournal®",
   "sub": "sejournal",
@@ -92,6 +182,21 @@
   "likes": 2,
   "replies": 2,
   "ts": "2026-11-18T13:15:00+00:00"
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/jmoserr/status/2123040439263490168",
+  "name": "Jeremy Moser",
+  "sub": "jmoserr",
+  "avatar": "https://pbs.twimg.com/profile_images/2097659595221004288/EZozSJ4E_bigger.jpg",
+  "text": "Stop chasing shiny objects with GEO.\n\nOvernight, Gemini 3x'd Reddit citations again. Comparing Aug vs Nov, Reddit increased by 121% across 2.5m+ prompts. \n\nReddit is back? Well, no, it never left in importance. Let me explain....\n\nJust a few months ago, everyone was claiming a",
+  "img": "https://pbs.twimg.com/media/HXaN54EWgAAyrV-.jpg",
+  "likes": 3,
+  "replies": 2,
+  "ts": "2026-11-18T13:07:39+00:00",
+  "col": "g",
+  "sum": "Reddit citations in Gemini grew 121% from August to November, across 2.5M+ prompts. Reddit never lost its weight as a citation source.",
+  "themes": []
  },
  {
   "kind": "x",
@@ -214,6 +319,47 @@
   "likes": 24,
   "replies": 7,
   "ts": "2026-11-18T01:38:18+00:00"
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/wilreynolds_sick-of-dark-traffic-get-your-cloudflare-share-7528600350975520768-jz1P/",
+  "name": "Wil Reynolds",
+  "sub": "Founder, Seer Interactive",
+  "avatar": "https://media.licdn.com/dms/image/v2/C4D03AQFiZ_0hP6q2rQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1609023921385?e=2147483647&v=beta&t=5-YZQiuilY4l4uGMXfOLUK9ephN482dFHczlNd6Hkpg",
+  "text": "Sick of \"Dark Traffic\"? Get your cloudflare logs (accessible via the MCP) and turn direct into iMessage, Messenger, X app, Linkedin App, Whatsapp, Slack. You know all those \"link previews\" well those pings give you directionally useful data :)  | 22 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQGpTp4pPz60Mg/feedshare-image-high-res/B4EaHr2IKzIEAQ-/0/1794958197676?e=2147483647&v=beta&t=AGXZ5dekDjvmYmPNHBgyhbzVxPJKJltOZCad5aP3yFQ",
+  "ts": "2026-11-17T23:29:58.303000+00:00",
+  "col": "s",
+  "sum": "Wil Reynolds splits dark direct traffic with Cloudflare logs. Link preview pings show visits that start in iMessage, Messenger, the X app, the LinkedIn app, WhatsApp and Slack.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/neilkpatel_llms-love-citing-data-but-you-probably-feel-share-7528593327487852544-9XTg/",
+  "name": "Neil Patel",
+  "sub": "Co-Founder, Neil Patel Digital",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5103AQFihp1Vzz6oCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516255378406?e=2147483647&v=beta&t=UTj0Kvde2cLI0xl9MLqYgSTChhYtp3fSKUM2jN-gCSc",
+  "text": "LLMs love citing data. But you probably feel you don't have enough \"unique\" data that LLMs will find valuable.\n\nBut that is far from the truth.\n\nThis is where most companies have data, but don't realize. | 44 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-17T23:02:03.773000+00:00",
+  "col": "s",
+  "sum": "LLMs like to cite data. Neil Patel says most companies already hold unique data that LLMs would cite, but they do not see it.",
+  "themes": []
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/neilpatel/status/2122827175711637607",
+  "name": "Neil Patel",
+  "sub": "neilpatel",
+  "avatar": "https://pbs.twimg.com/profile_images/1502690164744732674/3w3KcZkt_bigger.jpg",
+  "text": "Most people hear “answer every question” and start making a page for every version of the query. Google actually warns against that. More pages won’t win. Evidence will. Real data. Screenshots. Real pricing. Honest limitations. If your page says what every other page says,",
+  "img": "https://pbs.twimg.com/media/HXXMD1ZXwAAjbrf.jpg",
+  "likes": 21,
+  "replies": 13,
+  "ts": "2026-11-17T23:00:13+00:00",
+  "col": "s",
+  "sum": "Google warns against a separate page for every version of a query. Neil Patel says evidence wins instead: real data, screenshots, real pricing and honest limits.",
+  "themes": []
  },
  {
   "kind": "x",
@@ -408,6 +554,19 @@
   "ts": "2026-11-17T18:36:45+00:00"
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/simoahava_google-tags-are-now-google-tag-manager-containers-share-7528525452714577920-mAOs/",
+  "name": "Simo Ahava",
+  "sub": "Co-founder, Simmer",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGwwyV9Znx98A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1695718541802?e=2147483647&v=beta&t=ejKc6vEnubEyzm6hYuHfxuL8sm_K2crUugZdf4sz26c",
+  "text": "Google Tags are now Google Tag Manager containers. \n\nInstead of managing Google Tags via their own settings interface, you will now control them with the GTM UI. They will retain all Google Tag capabilities but will now benefit from a more unified approach to tagging under Google. \n\nOnce the migration is complete, hopefully some of the confusion introduced by the GTM upgrade will be dispelled. However, Google Tag vs. Google Tag Manager is still confusing even for experts and power users. Maybe with this consolidation it will be easier to grok each system’s role in a marketing setup. \n\nAgain, importantly, on-page behavior doesn’t change. This doesn’t introduce additional data collection or processing beyond what the tags have already done and been capable of. \n\nRelease notes: https://lnkd.in/dbCJkyGe | 27 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4D22AQGojJp06sH5xw/feedshare-shrink_1280/B4DaHqyAdyKIAQ-/0/1794940340387?e=2147483647&v=beta&t=USULRRro1SukGKz-ioQyfISAHkNtjgXuSUw_pj6sqxo",
+  "ts": "2026-11-17T18:32:21.166000+00:00",
+  "col": "g",
+  "sum": "Google Tags are now Google Tag Manager containers. You manage them in the GTM interface, and they keep all Google Tag features. On-page behavior and data collection do not change.",
+  "themes": []
+ },
+ {
   "kind": "x",
   "url": "https://x.com/glenngabe/status/2122754993753411827",
   "name": "Glenn Gabe",
@@ -470,6 +629,21 @@
   "text": "My thoughts on the ChatGPT Business Hub: a worse GSC.\n\nBut also more than GSC. It includes functionality similar to Google Merchant Center and Google Business Profile.\n\nThe big plus? „Real“ data. Finally!\n\nThe big minus? No prompts, very generic topics, limited historical data, and a weird definition of what a mention is.\n\nAlso, very few clicks! But that is as expected.\n\nWeird definition of mentions? Hear me out. Your brand is mentioned with a link to your website? That’s a mention! Your website is cited? That is a mention too - even if your brand was not mentioned in the answer at all.\n\nYour brand is mention without a link? Or the link goes to your LinkedIn profile? Those are not mentions. \n\nThere is also no differentiation between branded and unbranded prompts.\n\nIn the end, it has the purpose to convince you to give OpenAI access to all your data. It will not help you gain more citations, understand how you perform vs competitors, are help you be recommended more often.\n\nSimilar to Google Search Console and Bing Webmaster Tools, it is a data source. It has value. But it is only one of multiple data points that should inform your execution layer and success measurement.\n\nMore details in the Peec AI blog. | 53 comments on LinkedIn",
   "img": "https://media.licdn.com/dms/image/v2/D4E22AQGRL8mWLqn4Vw/feedshare-shrink_800/B4EaHqVxUnHwAg-/0/1794932938409?e=2147483647&v=beta&t=Ya7hkns0F4POpBnvDJxzB9nZtZCCnMf8bDAMqJiUU7I",
   "ts": "2026-11-17T16:28:59.386000+00:00"
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/darrenshawwhitespark_google-will-tell-you-about-3-citations-it-share-7528475092624986112-tcYs/",
+  "name": "Darren Shaw",
+  "sub": "Founder, Whitespark",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGPRN78FYknrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685132735631?e=2147483647&v=beta&t=UqYA3gtwvph8Yb0r_rahU1g5IkXAz_R8M-wzWwu2sag",
+  "text": "Google will tell you about 3 citations it is associating with your business in the “Web Results” section of your listing on Maps. We analyzed over 21,000 businesses to see what Google shows there, and here’s what we found:\n \nYour website is your #1 citation (duh)\n \nIt showed up in 86% of listings, usually in the top spot. I have to assume the remaining 14% do not have a website.\n \nFacebook is the number one third-party site, appearing for 41% of businesses.\n \nOk, I know that Facebook is for “the olds”, but a Facebook business page is pretty important to Google based on this data.\n \nMapQuest is more important than you thought\n \nIt showed up in 18% of Business Profiles!\n \nReddit threads can appear in this section, including ones that are over a decade old.\n \nAnd many of them are complaints about your business. Uh oh.\n \nPlus so many other interesting discoveries!\n \nMiriam Ellis has written up the detailed analysis on the Whitespark website. It includes the complete list of the most important sites for your business industry, plus a full checklist to maximize control over your Google Maps Web Results.\n \nLet me know if you want the link. | 19 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D5622AQHIhfTtdiztNQ/feedshare-shrink_800/B56aHqENEgH0Ag-/0/1794928333484?e=2147483647&v=beta&t=WHA035aQ5wztlSmtHAXII6DjjleNHXw5NBEMA83zPbM",
+  "ts": "2026-11-17T15:12:14.385000+00:00",
+  "col": "g",
+  "sum": "Whitespark checked 21,000+ businesses to see the 3 citations Google shows in the Maps Web Results section. The website showed up in 86%, Facebook in 41% and MapQuest in 18%. Old Reddit complaint threads can show there too.",
+  "themes": [
+   "local"
+  ]
  },
  {
   "kind": "blog",
@@ -646,6 +820,19 @@
   "title": "Google Adds Appointment Finding & Business Calls To Ask Maps",
   "logo": "https://pbs.twimg.com/profile_images/2026045893024096256/LmcENam1_bigger.jpg",
   "ts": "2026-11-16T22:13:00-03:00"
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/adam-treboutat_google-just-launched-new-pmax-controls-what-share-7528089453245046784--HsR/",
+  "name": "Adam Treboutat",
+  "sub": "Founder, TNT",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHRcHuPr100Sw/profile-displayphoto-scale_400_400/B4EZoCHJ0BIwAk-/0/1760972025778?e=2147483647&v=beta&t=OeYfHetoG8LwhIRiyHw3MxrFQvVU9D_BbU2tcSM0P7A",
+  "text": "Google just launched new PMax controls\n\nWhat you can FINALLY now do:\n\n1. Switch off Search partners\n→ Set Search partners to Low with a 0% cap\n\n2. Cap Display\n→ Set Display (GDN) to Low with a small % of daily budget\n→ Google calls the cap best effort, so it may occasionally be exceeded\n→ One of our growth managers set Display and Search partners to 0% on a healthcare client where Display took over 50% of PMax spend. Search became the majority channel and CPL fell 17%\n\n3. Pick which channel gets budget first\n→ Every channel defaults to High\n→ High channels get budget first and Low channels get what's left\n\n4. Budget-limited campaigns\n→ Prioritization only changes spend on a campaign that is limited by budget\n→ The % cap applies to every campaign\n\n5. Google channels are still consolidated\n→ Search, YouTube, Maps, Gmail and Discover are prioritized together as \"Google channels\"\n→ YouTube or Maps can't be capped on their own\n\n6. Set it once\n→ Go to Account settings > Channel Prioritization and it applies to every campaign of that type unless a campaign overrides it\n\nIt's been rolling out since 15 Oct 2026 and availability varies by account, so check yours. | 106 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4D22AQEgUC97pTJxyg/feedshare-shrink_1280/B4DaHkldlwIcAQ-/0/1794836389773?e=2147483647&v=beta&t=H47CO3CEBasumPsa2a-ls_CNs7TwSewJZrKQvblTtnY",
+  "ts": "2026-11-16T13:39:50.792000+00:00",
+  "col": "g",
+  "sum": "Google adds new PMax controls. You can set Search partners to Low with a 0% cap, cap Display spend and pick which channel gets budget first. One healthcare client cut CPL by 17% after it set Display and Search partners to 0%.",
+  "themes": []
  },
  {
   "kind": "blog",
