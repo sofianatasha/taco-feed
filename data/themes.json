@@ -1,0 +1,74 @@
+[
+ {
+  "id": "hydrogen",
+  "label": "Gemini 4 Hydrogen in Search",
+  "lines": [
+   "Google moved Search to Gemini 4 Hydrogen worldwide on Nov 17, with better intent understanding and smarter query fan-out.",
+   "AIO links and sources changed the same day. Google links out more, and AIOs now show a fully visible citations block.",
+   "Recheck AIO citations for priority keywords this week."
+  ]
+ },
+ {
+  "id": "core",
+  "label": "November Core Update",
+  "lines": [
+   "The November 2026 Core Update is still rolling out.",
+   "SE Ranking shows volatility cooling, most at the very top of the SERP. Google hasn't confirmed it is done.",
+   "Wait for the rollout to end before you act on ranking drops."
+  ]
+ },
+ {
+  "id": "gsc",
+  "label": "Branded data in the GSC API",
+  "lines": [
+   "The Search Analytics API now classifies queries as branded or non-branded and includes multimodal search data.",
+   "It can also filter several countries or devices in one request.",
+   "We can pull non-branded clicks without our own regex."
+  ]
+ },
+ {
+  "id": "hub",
+  "label": "ChatGPT Business Hub",
+  "lines": [
+   "ChatGPT Business Hub gives real data, but very little of it.",
+   "Barry Schwartz still has zero data after a week. Malte Landwehr says it counts a citation as a mention even when the brand is not named.",
+   "One account got 17 clicks that converted at 12%. Do not use these numbers as benchmarks yet."
+  ]
+ },
+ {
+  "id": "ads",
+  "label": "ChatGPT ads",
+  "lines": [
+   "ChatGPT announced ads, and the first data shows weak returns.",
+   "Only 6.9% of ChatGPT conversations in a US panel showed purchase intent. Edward Sturm reports that Google is testing removing AI Mode from its homepage because AI Mode ads earn less.",
+   "Keep ad budgets on Google Search until ChatGPT ads show real results."
+  ]
+ },
+ {
+  "id": "agents",
+  "label": "Crawlers for AI agents",
+  "lines": [
+   "Google and Microsoft now run crawlers and search engines built for AI agents.",
+   "Google published a help doc for Google-Agent, and Microsoft launched Web IQ to ground ChatGPT, Copilot and Mistral. Gemini and Ask Maps can now call local businesses for users.",
+   "Check robots.txt rules and server logs for Google-Agent, and keep GBP hours and phone numbers right."
+  ]
+ },
+ {
+  "id": "security",
+  "label": "Plugin and script security",
+  "lines": [
+   "Three security stories touch client sites this week.",
+   "Rank Math had 16 vulnerabilities in 2026, a trusted Optimizely script carried malware to 178 organizations, and the FBI tied SEO poisoning to $28 million in ransomware payments.",
+   "Update Rank Math and review third-party scripts on client sites."
+  ]
+ },
+ {
+  "id": "models",
+  "label": "GPT-6.2 and new models",
+  "lines": [
+   "OpenAI and Microsoft launched new model families on the same day.",
+   "OpenAI released GPT-6.2 Astra for complex work and GPT-6.2 Sol for everyday work. Microsoft introduced seven MAI models at Ignite.",
+   "Both GPT-6.2 models are already live in GitHub Copilot."
+  ]
+ }
+]

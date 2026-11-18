@@ -1,0 +1,7 @@
+[
+ {"id": "g", "title": "Google AI products", "color": "#1a73e8"},
+ {"id": "c", "title": "ChatGPT", "color": "#10a37f"},
+ {"id": "t", "title": "Claude & AI tools", "color": "#d97706"},
+ {"id": "s", "title": "Industry & strategy", "color": "#8b5cf6"},
+ {"id": "b", "title": "SEO blogs", "color": "#e11d48"}
+]

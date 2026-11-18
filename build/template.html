@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="referrer" content="no-referrer">
+<title>Taco Feed</title>
+<style>
+:root{--bg:#f4f6f8;--col:#fff;--card:#fff;--line:#e3e7ec;--ink:#0f1419;--muted:#536471;--chip:#eef2f6;--chipOn:#0f1419;--chipOnInk:#fff;--accent:#1d9bf0;--sum:#f2f7fd;--sumInk:#1c3d5a}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#0b0f14;--col:#121821;--card:#161d27;--line:#26313f;--ink:#e7edf3;--muted:#8b98a5;--chip:#1e2834;--chipOn:#e7edf3;--chipOnInk:#0b0f14;--accent:#4cb3ff;--sum:#16263a;--sumInk:#cfe3f7}}
+:root[data-theme="dark"]{--bg:#0b0f14;--col:#121821;--card:#161d27;--line:#26313f;--ink:#e7edf3;--muted:#8b98a5;--chip:#1e2834;--chipOn:#e7edf3;--chipOnInk:#0b0f14;--accent:#4cb3ff;--sum:#16263a;--sumInk:#cfe3f7}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+button{font:inherit;color:inherit}
+.top{padding:14px 16px 10px;border-bottom:1px solid var(--line);background:var(--col)}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.brand{font-weight:800;font-size:16px;margin-right:8px}
+.stamp{font-weight:400;font-size:11.5px;color:var(--muted);margin-left:4px}
+.themes{display:flex;flex-wrap:wrap;gap:6px;flex:1}
+.theme{border:1px solid transparent;background:var(--chip);border-radius:999px;padding:5px 12px;font-size:12.5px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.theme .c{opacity:.6;font-variant-numeric:tabular-nums}
+.theme:hover{border-color:var(--line)}
+.theme.on{background:var(--chipOn);color:var(--chipOnInk)}
+.filters{display:flex;gap:4px}
+.filters button{border:1px solid var(--line);background:var(--col);border-radius:999px;padding:5px 12px;font-size:12.5px;cursor:pointer}
+.filters button.on{background:var(--chipOn);color:var(--chipOnInk);border-color:var(--chipOn)}
+.overview{display:none;margin-top:10px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:10px 14px;background:var(--card)}
+.overview.show{display:block}
+.overview h3{margin:0 0 6px;font-size:15px;display:flex;align-items:center;gap:8px}
+.overview h3 .x{margin-left:auto;border:0;background:none;cursor:pointer;font-size:18px;line-height:1;color:var(--muted)}
+.overview ol{margin:0;padding-left:20px}
+.overview li{margin:2px 0}
+.overview li:last-child{font-weight:600}
+.deck{display:flex;gap:12px;padding:12px 16px 16px;overflow-x:auto;height:calc(100vh - 70px);min-height:640px}
+.col{flex:0 0 360px;background:var(--col);border:1px solid var(--line);border-radius:14px;display:flex;flex-direction:column;min-height:0}
+.colhead{padding:11px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:8px;border-top:4px solid var(--c);border-radius:14px 14px 0 0}
+.colhead h2{font-size:15px;margin:0;flex:1}
+.colhead .n{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.feed{overflow-y:auto;min-height:0;flex:1}
+.day{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:10px 14px 4px}
+.empty{color:var(--muted);font-size:13px;padding:18px 14px}
+.card{padding:12px 14px;border-bottom:1px solid var(--line);display:grid;grid-template-columns:40px 1fr;gap:10px}
+.card:hover{background:color-mix(in srgb,var(--chip) 45%,transparent)}
+.av{width:40px;height:40px;border-radius:50%;object-fit:cover;background:var(--chip)}
+.av.sq{border-radius:10px}
+.avf{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700}
+.hd{display:flex;gap:4px;align-items:baseline;flex-wrap:wrap;min-width:0}
+.nm{font-weight:700}
+.mt{color:var(--muted);font-size:13px}
+.badge{margin-left:auto;font-size:11px;font-weight:700;color:var(--muted)}
+.sum{background:var(--sum);color:var(--sumInk);border-radius:8px;padding:6px 9px;margin:6px 0;font-size:13px}
+.ttl{font-weight:700;margin:4px 0 2px}
+.tx{white-space:pre-wrap;word-wrap:break-word;overflow-wrap:anywhere}
+.tx.clamp{display:-webkit-box;-webkit-line-clamp:7;-webkit-box-orient:vertical;overflow:hidden}
+.more{border:0;background:none;color:var(--accent);padding:0;cursor:pointer;font-size:13px}
+.img{display:block;width:100%;max-height:230px;object-fit:cover;border-radius:14px;border:1px solid var(--line);margin-top:8px}
+.ft{display:flex;gap:16px;margin-top:8px;color:var(--muted);font-size:12.5px;align-items:center}
+.ft a{color:var(--accent);text-decoration:none;margin-left:auto}
+.hide{display:none!important}
+@media (max-width:700px){.deck{height:auto;flex-direction:column;overflow-x:visible}.col{flex:none}.feed{max-height:70vh}}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="row">
+    <span class="brand">Taco Feed <span class="stamp">updated {{REFRESH}}</span></span>
+    <div class="themes" id="themes"></div>
+    <div class="filters" id="filters">
+      <button class="on" data-f="all">All</button><button data-f="x">X</button><button data-f="li">LinkedIn</button><button data-f="blog">Blogs</button>
+    </div>
+  </div>
+  <div class="overview" id="overview"></div>
+</div>
+<div class="deck" id="deck"></div>
+<script>
+/*DATA*/
+const PAL=["#1d9bf0","#f91880","#00ba7c","#7856ff","#ff7a00","#e0245e","#0a66c2","#17bf63"];
+const hue=s=>PAL[[...s].reduce((a,c)=>a+c.charCodeAt(0),0)%PAL.length];
+const ini=s=>s.split(/\s+/).filter(w=>/[A-Za-z]/.test(w[0]||"")).map(w=>w[0]).join("").slice(0,2).toUpperCase();
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n>=1000?(n/1000).toFixed(n>=10000?0:1)+"K":String(n);
+const state={theme:null,src:"all"};
+function avatar(p){
+  const src=p.kind==="blog"?p.logo:p.avatar;
+  const sq=p.kind==="blog"?" sq":"";
+  if(!src) return `<div class="avf" style="background:${hue(p.name)}">${ini(p.name)}</div>`;
+  return `<img class="av${sq}" src="${esc(src)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=&quot;avf&quot; style=&quot;background:${hue(p.name)}&quot;>${ini(p.name)}</div>'">`;
+}
+function card(p,i){
+  const meta=p.kind==="x"?"@"+p.sub:p.sub;
+  const badge=p.kind==="x"?"𝕏":p.kind==="li"?"LinkedIn":"Blog";
+  const long=(p.text||"").length>320;
+  let body="";
+  if(p.kind==="blog") body=`<div class="ttl">${esc(p.title)}</div><div class="tx">${esc(p.sum)}</div>`;
+  else body=`<div class="sum">${esc(p.sum)}</div><div class="tx${long?" clamp":""}" id="t${i}">${esc(p.text)}</div>${long?`<button class="more" data-t="t${i}">Show more</button>`:""}`;
+  const img=p.img?`<img class="img" src="${esc(p.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:"";
+  const stats=p.kind==="x"?`<span>♡ ${fmt(p.likes||0)}</span><span>💬 ${fmt(p.replies||0)}</span>`:"";
+  const link=p.kind==="x"?"View on X":p.kind==="li"?"View on LinkedIn":"Read article";
+  return `<article class="card" data-src="${p.kind}" data-themes="${p.themes.join(" ")}">${avatar(p)}<div style="min-width:0">
+    <div class="hd"><span class="nm">${esc(p.name)}</span><span class="mt">${esc(meta)} · ${p.time}</span><span class="badge">${badge}</span></div>
+    ${body}${img}<div class="ft">${stats}<a href="${esc(p.url)}" target="_blank" rel="noopener">${link} ↗</a></div></div></article>`;
+}
+const deck=document.getElementById("deck");
+let idx=0;
+COLS.forEach(c=>{
+  const items=P.filter(p=>p.col===c.id);
+  const sec=document.createElement("section"); sec.className="col"; sec.dataset.col=c.id;
+  let h=`<div class="colhead" style="--c:${c.color}"><h2>${esc(c.title)}</h2><span class="n"></span></div><div class="feed">`;
+  let day="";
+  items.forEach(p=>{ if(p.day!==day){day=p.day; h+=`<div class="day" data-day="${p.day}">${p.day}</div>`;} h+=card(p,idx++); });
+  sec.innerHTML=h+`<div class="empty hide">Nothing on this topic in this column.</div></div>`;
+  deck.appendChild(sec);
+});
+const th=document.getElementById("themes");
+th.innerHTML=THEMES.map(t=>`<button class="theme" data-id="${t.id}">${esc(t.label)} <span class="c">${t.n}</span></button>`).join("");
+const ov=document.getElementById("overview");
+function apply(){
+  document.querySelectorAll(".theme").forEach(b=>b.classList.toggle("on",b.dataset.id===state.theme));
+  document.querySelectorAll("#filters button").forEach(b=>b.classList.toggle("on",b.dataset.f===state.src));
+  const t=THEMES.find(x=>x.id===state.theme);
+  if(t){ov.innerHTML=`<h3>${esc(t.label)}<button class="x" title="Clear">×</button></h3><ol>${t.lines.map(l=>`<li>${esc(l)}</li>`).join("")}</ol>`; ov.classList.add("show"); ov.querySelector(".x").onclick=()=>{state.theme=null;apply();};}
+  else ov.classList.remove("show");
+  document.querySelectorAll(".col").forEach(col=>{
+    let shown=0;
+    col.querySelectorAll(".card").forEach(c=>{
+      const ok=(state.src==="all"||c.dataset.src===state.src)&&(!state.theme||c.dataset.themes.split(" ").includes(state.theme));
+      c.classList.toggle("hide",!ok); if(ok) shown++;
+    });
+    col.querySelectorAll(".day").forEach(d=>{
+      let n=d.nextElementSibling, any=false;
+      while(n&&!n.classList.contains("day")&&!n.classList.contains("empty")){ if(n.classList.contains("card")&&!n.classList.contains("hide")) any=true; n=n.nextElementSibling; }
+      d.classList.toggle("hide",!any);
+    });
+    col.querySelector(".n").textContent=shown;
+    col.querySelector(".empty").classList.toggle("hide",shown>0);
+    col.classList.toggle("hide",!!state.theme&&shown===0);
+  });
+  deck.scrollLeft=0;
+}
+th.onclick=e=>{const b=e.target.closest(".theme"); if(!b) return; state.theme=state.theme===b.dataset.id?null:b.dataset.id; apply();};
+document.getElementById("filters").onclick=e=>{const b=e.target.closest("button"); if(!b) return; state.src=b.dataset.f; apply();};
+deck.onclick=e=>{const b=e.target.closest(".more"); if(!b) return; const t=document.getElementById(b.dataset.t); const open=t.classList.toggle("clamp"); b.textContent=open?"Show more":"Show less";};
+apply();
+</script>
+</body>
+</html>
