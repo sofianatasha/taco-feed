@@ -63,7 +63,7 @@ def x_post(url):
         "kind": "x", "url": f"https://x.com/{u['screen_name']}/status/{sid}",
         "name": u["name"], "sub": u["screen_name"],
         "avatar": u["profile_image_url_https"].replace("_normal", "_bigger"),
-        "text": text.strip(), "img": md[0]["media_url_https"] if md else None,
+        "text": html.unescape(text).strip(), "img": md[0]["media_url_https"] if md else None,
         "likes": j.get("favorite_count", 0), "replies": j.get("conversation_count", 0),
         "ts": ts.isoformat(),
     }
