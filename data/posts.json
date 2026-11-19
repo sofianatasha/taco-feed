@@ -1,5 +1,33 @@
 [
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/nathangotch_were-living-in-a-world-where-companies-are-share-7529309189127659520-8rO1/",
+  "name": "Nathan Gotch",
+  "sub": "Co-Founder and CEO, Rankability",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5603AQHOxXdAAX6RQw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1651848439583?e=2147483647&v=beta&t=F9znwDX1y5OaPu-Z9ikRc1sedCVm4Ib_K3R9TNOHuEU",
+  "text": "We're living in a world where companies are hiring SEO and AEO companies to work on the same brand at the same time 🤯",
+  "img": null,
+  "ts": "2026-11-19T22:26:38.488000+00:00",
+  "col": "s",
+  "sum": "Nathan Gotch sees companies hire an SEO agency and a separate AEO agency to work on the same brand at the same time.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/chris-long-marketing_huge-seo-news-google-is-rolling-out-a-collapsable-ugcPost-7529288158820286464-gme7/",
+  "name": "Chris Long",
+  "sub": "Co-founder, Nectiv",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEf7iyuuMOsyQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696859606064?e=2147483647&v=beta&t=aXra4UyUJSs6shwTwE7K4nEnsm7T2lck5omg5hAy4FE",
+  "text": "Huge SEO News: Google is rolling out a collapsable sidebar with AI Mode conversations in the MAIN SEARCH RESULTS!!! AI Mode is becoming the default search experience | 11 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-19T21:03:04.472000+00:00",
+  "col": "g",
+  "sum": "Google is rolling out a collapsible sidebar that keeps AI Mode conversations inside the main search results. Chris Long says AI Mode is becoming the default search experience.",
+  "themes": [
+   "aimode"
+  ]
+ },
+ {
   "kind": "blog",
   "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
   "name": "Search Engine Journal",
@@ -12,6 +40,73 @@
   "themes": []
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/johnshehata_an-open-letter-to-every-ai-visibility-company-ugcPost-7529235246039425026-ZVQh/",
+  "name": "John Shehata",
+  "sub": "News SEO Digest",
+  "avatar": "https://media.licdn.com/dms/image/v2/C4E03AQGVpp2x64q3FQ/profile-displayphoto-shrink_400_400-alternative/profile-displayphoto-shrink_400_400-alternative/0/1528763278402?e=2147483647&v=beta&t=R3I3LPpwjJMyuAtbdlOcFpBuIdkk2AE0aSWtL-ZvXec",
+  "text": "An open letter to every AI visibility company selling its product through misconceptions, fear, and “SEO is dead” campaigns. | 20 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-19T17:32:49.082000+00:00",
+  "col": "s",
+  "sum": "John Shehata answers AI visibility vendors who sell with fear and \"SEO is dead\" claims. His News SEO Digest article uses data to show that the claim \"customers are not searching anymore\" is false. Lily Ray joined the discussion.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/anastasia-kotsiubynska_my-favorite-actionable-data-source-for-share-7529218219912441857-cBT1/",
+  "name": "Anastasia Kotsiubynska",
+  "sub": "SEO, SE Ranking",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5603AQGsHsB3XlLOCg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1523438221341?e=2147483647&v=beta&t=Iqt9tSyERWz5EKYrjGpgwM9aw-iisOgNL5s3FzJJQMM",
+  "text": "My favorite (actionable) data source for a GEO content plan is the citations list for the prompts we track.\n\n ✅ Cited domains show which websites & platforms dominate for each AI engine (I usually focus on AI Overviews and ChatGPT).\n ✅ Cited URLs show you the exact topics and content formats that get picked up.\n\n👉 From there, you can see how much coverage each topic and content format has, so you know what to prioritize:\n\n 1️⃣ What new pieces to create or what to update/optimize on your own website\n 2️⃣  Which offsite actions to take (the most important part for AI search)\n\nFor our own website(s), I still build every content plan on a healthy SEO foundation: business relevance, search demand data, and SERP-based clustering.\n\n❗ If you only follow AI source data with your own website, you can put your Google performance at risk because of cannibalization.\n\nThis trap is common on product websites, where two types of pages can cover the same top feature query: a feature landing page and a listicle of top tools (e.g., an \"AI video generator\" landing page vs. a \"best AI video generators\" listicle). \n\n 👉 AI search usually benefits from having both pages, since LLMs get more sources to pull from. In Google, though, the two pages will likely compete for the same queries, so SERP & your historical performance data should decide which one you build.\n\n🟢 And the most fundamental source for any organic content plan: your customer data. AI search is still a black box when it comes to what users actually ask, so lean heavily on call recordings, input from your customer-facing teams and discussions on UGC platforms like Reddit. It works for SEO and GEO, and it also works for your users and your business.",
+  "img": "https://media.licdn.com/dms/image/v2/D5622AQEEiIgKXEDWvg/feedshare-shrink_800/B56aH0oEZVIsAg-/0/1795105507975?e=2147483647&v=beta&t=IGY7cEEZsx4u9g2nZJuQ8XK5F9R3jNUzn4przx6M6lg",
+  "ts": "2026-11-19T16:25:09.737000+00:00",
+  "col": "s",
+  "sum": "Anastasia Kotsiubynska builds GEO content plans from the cited domains and cited URLs of tracked prompts. She warns that AI source data alone can cause cannibalization and hurt Google performance.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/joshua-blyskal_im-open-sourcing-a-bit-of-profounds-data-share-7529212470125613056-_3Zj/",
+  "name": "Josh Blyskal",
+  "sub": "Head of Insights, Profound",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGqCGmYvlT-ww/profile-displayphoto-scale_400_400/B4EaGCoVZeKUAg-/0/1793192974805?e=2147483647&v=beta&t=SQr-Arzq8cACZ9aUHWJ8NGd-J8NiUFzEkikxKDgfFFY",
+  "text": "I'm open-sourcing a bit of Profound's data. You ever see all these headlines and charts about global citation share shifts “this property is up 1%, that one’s down 2%” and everyone freaks out or takes a LinkedIn victory lap?\n\nEvery time, I just think: that’s like someone announcing the planetary average temperature today is 38°F (3°C for the Celsius folks) and saying, “Go figure out how to dress this morning.” Maybe it makes for good headlines. But it doesn’t actually tell you if you’ll freeze walking to the train or if you’ll be sweating by lunch.\n\nBecause at the end of the day, you need the weather for your 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗰 𝗰𝗶𝘁𝘆, not some planetary average. And for AEO, the only thing that matters is 𝘆𝗼𝘂𝗿 𝗮𝗰𝘁𝘂𝗮𝗹 𝘃𝗲𝗿𝘁𝗶𝗰𝗮𝗹, 𝘆𝗼𝘂𝗿 𝗿𝗲𝗮𝗹 𝗻𝗶𝗰𝗵𝗲, what’s happening for 𝘆𝗼𝘂𝗿 𝘀𝗹𝗶𝗰𝗲 of the industry. You can have 80° on average globally; your market might still be under snow.\n\nLook, I could’ve posted a 2% citation change headline this week, and sometimes you genuinely do want to know if something big shifted because major model updates really can change your channel strategy. But before you bring that number to your CMO, or get worked up about it yourself, ask: Did anything really move in your vertical? Did the local forecast change for your business, or is the story just about the planetary average?\n\nAs marketers, it’s just good to remember that before we alarm, before we report up, we should always check our actual niche, or our real category. It might look like spring globally, but you might still be snowed in.\n\nSo, I’m releasing my own verticalized data today: it has the biggest citation share changers by answer engine, per vertical, for the last month or so (a sample of our DS, so no, this is not representative of “Profound’s whole dataset”) but I want to share it with you as a simple repo. The link is in the comments. Take the file, remix it, dig in, and actually see what matters in your vertical and region.\n\nBecause your local forecast should always beat the global average when you need to decide what to do next 👀 | 12 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-19T16:02:18.881000+00:00",
+  "col": "s",
+  "sum": "Profound's Josh Blyskal says a global citation share change of 1% or 2% tells you little. Check what moved in your own vertical before you report a shift to a client.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/markseo_seo-share-7529208231995289601-CzXK/",
+  "name": "Mark Williams-Cook",
+  "sub": "Director, Candour; Founder, AlsoAsked",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQGPBXY4DDk12g/profile-displayphoto-scale_400_400/B4EZ7c.eYQKcAg-/0/1781823827484?e=2147483647&v=beta&t=wS5kgO6qdrUz8hw-gT49du8qMC98Q5_OzHD9d9VmY0A",
+  "text": "Unsolicited #SEO tip: If you get a manual action for links, remember that when you have this penalty \"removed\" you will not go back to the position you were in previously.   🙂‍↔️ \n\nThe links that you had, which you were receiving credit for will be discounted (if you haven't removed them), as they were deemed manipulative.\n\nWhile the penalty is removed, it still leaves you with a hole to fill in terms of the signals those links were giving you. This is another reason why using manipulative link building is not to be seen as an \"investment\" like a lot of SEO is.\n\nHappy GTA VI day.",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQGREGP42LlTZQ/feedshare-shrink_800/B4EaH0e_XYJ4Ag-/0/1795103127321?e=2147483647&v=beta&t=q2q-T9OFRuQe-iat98w5iXHmsiy-hjmTb3Y_SRzhjqA",
+  "ts": "2026-11-19T15:45:28.432000+00:00",
+  "col": "s",
+  "sum": "When Google removes a manual action for links, rankings do not come back. Google still discounts the manipulative links, so you must replace the signals they gave.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/darrenshawwhitespark_what-happens-when-you-block-googles-ai-features-share-7529208003980443648-qsR9/",
+  "name": "Darren Shaw",
+  "sub": "Founder, Whitespark",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQGPRN78FYknrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685132735631?e=2147483647&v=beta&t=UqYA3gtwvph8Yb0r_rahU1g5IkXAz_R8M-wzWwu2sag",
+  "text": "What happens when you block Google’s AI features from using your website content?\nCyrus Shepard tested what happens when you opt your website out of  Google's AI Overviews and AI Mode features, and here’s what he found:\n\n1. AI impressions immediately dropped to zero\n2. AI impressions were estimated to have a 0.9% click-through rate\n\nOk, so this is expected, but Cyrus also found that regular organic clicks dropped too when AI features were disabled (what?!)\n\nHe calls this the \"SERP Halo Effect”.\n\nThe idea is that the more places your brand appears on the search results page, the more likely someone is to click through to your website.\n\nWhen people see your business mentioned in multiple places on the search results page, it builds trust. \n\nAnd that could make them more likely to click on your website, even if it's through a regular organic result rather than an AI citation.\n\nSo anyway, you probably don’t want to opt out of Google’s AI features.",
+  "img": "https://media.licdn.com/dms/image/v2/D5622AQErHnOw0WMvCA/feedshare-shrink_1280/B56aH0exQSHgBc-/0/1795103069608?e=2147483647&v=beta&t=V7bAHVlFO8H2w7gLF_IEXkYfAcTbqVA4qpAyGKWcl2I",
+  "ts": "2026-11-19T15:44:34.069000+00:00",
+  "col": "g",
+  "sum": "Cyrus Shepard opted a site out of AIOs and AI Mode. AI impressions dropped to zero, and regular organic clicks dropped too. Darren Shaw's advice: do not opt out of Google's AI features.",
+  "themes": [
+   "aimode"
+  ]
+ },
+ {
   "kind": "blog",
   "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
   "name": "Search Engine Journal",
@@ -22,6 +117,21 @@
   "col": "b",
   "sum": "Chrome 158 dropped XSLT, so WordPress sitemaps now show as raw XML in the browser. Crawlers do not use XSLT, so nothing is broken. Check the sitemap in Search Console before you change anything.",
   "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/chris-long-marketing_aeo-tip-more-companies-are-serving-their-share-7529194593234362368-8243/",
+  "name": "Chris Long",
+  "sub": "Co-founder, Nectiv",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEf7iyuuMOsyQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696859606064?e=2147483647&v=beta&t=aXra4UyUJSs6shwTwE7K4nEnsm7T2lck5omg5hAy4FE",
+  "text": "AEO Tip: More companies are serving their content via markdown to LLMs. 22% of technology sites we tested served markdown. Here's how to analyze your competitors: \n\nSo we've definitely been seeing a trend that more sites are serving markdown when requested. Basically, when an agent/request comes to your site, your site can serve different versions based on the request headers. A request for text/html would return the full HTML. A request for text/markdown obviously returns a markdown version of this. \n\nWell believe it or not, companies are implementing it. We performed a sample of 300 different sites in the technology space - 22% of them have it implemented (home page check only). \n\nWhat's even more interesting is this skews heavily towards the more tech-inclined companies. For Dev Tools, it was actually the majority of companies (54%). Similarly, data tools had 34% of the sites leveraging it. \n\nYou can check your competitors by using Claude/Code Code. Simply tell it the competitors / sites you want to analyze and it will pull the results and group them via headless requests. Simple, fast and you can better understand what others are doing. \n\nI know there's a lot of debate around this. For this implementation, you're only doing it for specific requests for the markdown - so basically giving agents the option. As long as your serving the exact same content, I don't see any problem with it. | 13 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQECpL5WElCnPg/feedshare-image-high-res/B4EaH0Sld0GkAQ-/0/1795099875825?e=2147483647&v=beta&t=aipAZVVtmW4Nt2MjQISf1yURZNoIWViRoZFcOViYhaw",
+  "ts": "2026-11-19T14:51:16.698000+00:00",
+  "col": "s",
+  "sum": "Nectiv tested 300 tech sites: 22% serve a markdown version of the home page when an agent asks for it. The share is 54% for dev tools and 34% for data tools. He shows how to check competitors.",
+  "themes": [
+   "agents"
+  ]
  },
  {
   "kind": "blog",
@@ -38,6 +148,21 @@
   ]
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/neilkpatel_your-next-customer-could-find-your-business-ugcPost-7529168456890347520-88LT/",
+  "name": "Neil Patel",
+  "sub": "Co-Founder, Neil Patel Digital",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5103AQFihp1Vzz6oCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516255378406?e=2147483647&v=beta&t=UTj0Kvde2cLI0xl9MLqYgSTChhYtp3fSKUM2jN-gCSc",
+  "text": "Your next customer could find your business through a Google search they never typed. And Google can now use your website to write your ads.\n\nIn this video, I break down six rules for getting customers from Google today. They cover how AI Mode runs extra searches behind the scenes, how AI Max can turn your old pages into ad copy, and how to teach Google which leads actually turn into money.\n\nThese rules come from Google’s own documentation and from what’s working for our clients at NP Digital, where we manage over $1 billion in marketing spend. If your reports still stop at traffic, this is where to start. | 29 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-19T13:07:25.308000+00:00",
+  "col": "g",
+  "sum": "Neil Patel lists six rules for getting customers from Google, based on Google's own docs. AI Mode runs extra searches behind the scenes, and AI Max can turn your old pages into ad copy.",
+  "themes": [
+   "aimode"
+  ]
+ },
+ {
   "kind": "blog",
   "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
   "name": "Search Engine Journal",
@@ -47,6 +172,19 @@
   "ts": "2026-11-19T13:00:50+00:00",
   "col": "b",
   "sum": "WordPress 7.2 ships Dec. 8 with a new /random/ URL that redirects to a random post. It is on by default with no settings toggle, so decide before the update if client sites need code to turn it off.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/for-everyone-using-wordpress-introducing-share-7529150772257804288-KKhe/",
+  "name": "Google Search Central",
+  "sub": "Google",
+  "avatar": null,
+  "text": "For everyone using WordPress, introducing a new SiteKit feature to help you grow your audience: quickly launch a newsletter sign-up CTA from your WordPress dashboard to collect newsletter signups and connect directly with your site's visitors. \n\nSite Kit is Google’s official plugin for WordPress, connecting critical Google tools like Search Console, AdSense, and Analytics, directly to your WordPress dashboard. \n\nHere’s what makes it easy: \n• Quickly launch a sign-up form as Site Kit handles the verification steps \n• Customize the form: write your own message, preview it live, and choose which pages show the sign-up before publishing \n• No coding or editing your theme needed, so you don’t have to worry about breaking your site layout to collect emails\n\nNewsletter signup CTAs are available for all WordPress sites using Site Kit with Google Analytics. To try it out, install Site Kit: https://lnkd.in/fxR27A4 | 28 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQFR9opx3QZtJg/feedshare-shrink_800/B4EaHzqu6tIkAg-/0/1795089428448?e=2147483647&v=beta&t=-KA6RuEY3X4vLPmz-vxdIVV_6VdfWw_2fklxfCNV4xo",
+  "ts": "2026-11-19T11:57:08.963000+00:00",
+  "col": "g",
+  "sum": "Site Kit, Google's WordPress plugin, can now add a newsletter sign-up form from the WordPress dashboard. It needs no code and works on all sites that use Site Kit with Google Analytics.",
   "themes": []
  },
  {
@@ -100,6 +238,19 @@
   "themes": []
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/daniel-foley-assertive_ive-had-more-client-enquiries-to-fix-manual-share-7529013055096127488-T4sO/",
+  "name": "Daniel Foley Carter",
+  "sub": "SEO Specialist",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHL2hzT1ZhL2Q/profile-displayphoto-scale_400_400/B4EaHxp6.8IkAg-/0/1795055662302?e=2147483647&v=beta&t=Aux7-zMiX3Rr8J1qrqfa5vwUFNTRnLiAHpx-Ht2lIxw",
+  "text": "I've had MORE client enquiries to fix manual actions in the last month than in the last few years.\n\nI'm seeing SO many different manual actions - MAJOR spam is coming up more and more, even for businesses who HAVEN'T used AI.\n\nGoogle is going to town on pages based on their intention - LOCATION PAGES are hot potatos right now - because if you create hundreds of them, it's not natural and whether you used AI or not, Google is coming for them.\n\nYou know - the LOCATION NEAR ME pages that so many people doing local SEO opted for?\n\nGoogle isn't just suppressing them, it's actively punishing businesses who are trying to target lots of locations with micro-location pages.\n\nWhat worked in 2016 isn't working in 2026.\n\nI'm seeing a significant surge in:\n\n- Major spam problems relating to huge volumes of micro-pages\n- Spam problems relating to scaled content abuse\n- Link spam issues and manipulative link building\n- Thin content issues\n\nIt seems with the advent of AI and the fact we've had 4 spam updates this year Google is going to town on it.\n\nI'm seeing So many sites losing 90%+ of traffic overnight and failing to get through reconsideration requests.\n\nMy answer is - DON'T TAKE SHORTCUTS or implement tactics from 10+ years ago to get clicks.\n\nLuckily for me, I fix these things and I know what's needed to get things through reconsideration requests, but, it's not pretty.",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQHH7nToxV1--w/feedshare-shrink_800/B4EaHxten6HAAk-/0/1795056593723?e=2147483647&v=beta&t=9BFkS53VK5_is5ypx9EywrA8moq90TWAo_0cekb26Do",
+  "ts": "2026-11-19T02:49:54.633000+00:00",
+  "col": "g",
+  "sum": "Daniel Foley Carter got more requests to fix manual actions in the last month than in the last few years. Google now targets sites with hundreds of thin location pages, with or without AI content.",
+  "themes": []
+ },
+ {
   "kind": "blog",
   "url": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
   "name": "Search Engine Journal",
@@ -126,6 +277,19 @@
   "themes": [
    "models"
   ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/jason-salt_which-ai-you-should-use-depends-on-which-share-7528866993882517506-13pO/",
+  "name": "Jason Saltzman",
+  "sub": "Head of Research and Insights, AirOps",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQE9g-e98Htx2g/profile-displayphoto-scale_400_400/B56aFfUJL.HUAg-/0/1792600480020?e=2147483647&v=beta&t=Nhd7-aB--uMjuQHDNw7fPRG9wQV6J7qTRnpoB8zWzsU",
+  "text": "Which AI you should use depends on which AI you ask.\n\nAcross answers to AI tool questions, ChatGPT is the only engine that talks about itself more than its rivals... 50.1% of its answers name ChatGPT, only 30.3% name another AI engine.\n\nEvery other engine is a hype man for the competition:\n→ Claude: 18.1% self vs 41.3% rivals\n→ AIO: 17.0% vs 45.2%\n→ AI Mode: 15.1% vs 45.1%\n→ Gemini: 12.8% vs 38.6%\n\nTake ChatGPT out and other engines still name their competitors 27–33% of the time.\n\nThe other engines might need to take \"believe in yourself\" a little more seriously. | 14 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D5622AQHGV20Oxe23rw/feedshare-shrink_800/B56aHvoopDIsAg-/0/1795021769654?e=2147483647&v=beta&t=hB6U_9tZPeUv7bxSiQQjrvuX4Lk50p9CXclpDGB1JNc",
+  "ts": "2026-11-18T17:09:30.926000+00:00",
+  "col": "c",
+  "sum": "AirOps data: ChatGPT names itself in 50.1% of answers about AI tools and a rival in only 30.3%. Other engines name rivals more often: Claude 18.1% self vs 41.3% rivals, AIOs 17.0% vs 45.2%, Gemini 12.8% vs 38.6%.",
+  "themes": []
  },
  {
   "kind": "x",
@@ -200,6 +364,21 @@
   "sum": "A local services business went from rare mentions to 94% of Google's AI answers, tested in 11 US cities. Dan Hinckley says it started with SEO: get found first, then give each page enough detail for AI models to answer from.",
   "themes": [
    "local"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/chris-long-marketing_google-tells-seos-not-to-worry-about-the-share-7528828837934043136-Awbt/",
+  "name": "Chris Long",
+  "sub": "Co-founder, Nectiv",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEf7iyuuMOsyQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1696859606064?e=2147483647&v=beta&t=aXra4UyUJSs6shwTwE7K4nEnsm7T2lck5omg5hAy4FE",
+  "text": "Google tells SEOs not to worry about the LLMs.txt and markdown. But every page in the Gemini docs links to both a Markdown version of the page + their LLMs.txt file:  \n\nSo this was discovered by my Nectiv co-founder Jason Melman It looks like at the bottom of every page on Google's Gemini documentation there are links to do different things: \n\n- A markdown version of that individual page\n- A link to the LLMs.txt page \n\nWe've already seen that on the main Google Developers page, they link to markdown version of the files. We've also seen the Chrome team build out LLMs.txt recommendations into their audits. \n\nI'm not saying that all of these will be 100% effective today (although I'm quite bullish on testing markdown and think there's valuable ways to do it). However, I'm saying that these companies are covering all possibilities + preparing for a day when systems might place more weight on them. | 18 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQEFaSEA-YH5vw/feedshare-image-high-res/B4EaHvF7z6KgAQ-/0/1795012673033?e=2147483647&v=beta&t=aYhIXmtNGhRAg4s_IrRoRfqbSpV9RoSGq7NgRAmNecI",
+  "ts": "2026-11-18T14:37:53.839000+00:00",
+  "col": "g",
+  "sum": "Google tells SEOs not to worry about LLMs.txt and markdown. But every page in Google's Gemini docs links to a markdown version and to an LLMs.txt file. Chris Long reads this as Google getting ready for a day when these files count more.",
+  "themes": [
+   "agents"
   ]
  },
  {
@@ -327,6 +506,19 @@
   "themes": []
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/neilkpatel_seo-aisearch-digitalmarketing-ugcPost-7528805346124144641-2LfK/",
+  "name": "Neil Patel",
+  "sub": "Co-Founder, Neil Patel Digital",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5103AQFihp1Vzz6oCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516255378406?e=2147483647&v=beta&t=UTj0Kvde2cLI0xl9MLqYgSTChhYtp3fSKUM2jN-gCSc",
+  "text": "SEO has a new job. It's not about being the 10th blue link nobody scrolls to anymore. It's about becoming the answer AI reaches for when it builds a response. And here's the part most brands miss: the AI is going to describe you either way. The only question is whether it's describing the brand you actually built, or the one the web pieced together about you by accident.\n\n#SEO #AISearch #DigitalMarketing #ContentStrategy #AIMarketing | 38 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-18T13:04:32.955000+00:00",
+  "col": "s",
+  "sum": "Neil Patel says the new job of SEO is to be the answer AI uses. AI will describe your brand either way, so make sure the web says what you want it to say.",
+  "themes": []
+ },
+ {
   "kind": "x",
   "url": "https://x.com/glenngabe/status/2123039497088581846",
   "name": "Glenn Gabe",
@@ -388,6 +580,32 @@
   "ts": "2026-11-18T12:00:00-03:00"
  },
  {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/kochjar_claudecode-aiagents-share-7528788635022790656-Y_OG/",
+  "name": "Tim Kochjar",
+  "sub": "Technical Co-founder, Tables.so",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQEFFMtaVal1yg/profile-displayphoto-scale_400_400/B4EZ54cAMtIwAg-/0/1780137068836?e=2147483647&v=beta&t=NCEaWJYeg9RrSUIk-CWzuI0Q5Nn60zmwAAUoTFS9FgY",
+  "text": "Claude just released Code Mode.\n\nUntil now an AI agent used its tools one step at a time call a tool, wait, read the result, call the next one.\n\nNow it writes a script that chains all the tools together and runs it in one go.\n\nIn practice, at Tables: “find 300 companies, find the top 3 decision makers, get their contacts, remove the ones already in our CRM”. Before, Claude did that one tool call at a time and read every result in between. Now it writes it once as a small script, and the script does the looping, skipping and batching on its own.\n\nTry it in your terminal:\nCLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1 claude\n\nhttps://lnkd.in/e96K_hf2\n\n#ClaudeCode #AIagents | 72 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQETDR__n4r6mw/feedshare-shrink_800/B4EaHuhXmKJgAk-/0/1795003087636?e=2147483647&v=beta&t=XfLgEGAmhjGIVw1LcHeCU6kNibXL4Ud12exB3EsUBi4",
+  "ts": "2026-11-18T11:58:08.718000+00:00",
+  "col": "t",
+  "sum": "Claude Code has an experimental Code Mode. The agent writes one script that chains its tool calls, so it does not stop to read each result. Turn it on with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1.",
+  "themes": []
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528787901246103552/",
+  "name": "Ruben Remy",
+  "sub": "Freelance SEO and AI Innovation Consultant",
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFmJFfevGNMYA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685959566993?e=2147483647&v=beta&t=V1l_A_O93RESRpayUuWIG32wl0NZ_cdlfTSSagiP0sE",
+  "text": "Did you know Google BigQuery has an MCP server?\n\nI’ve started setting it up for clients so they can ask questions about their own data in Claude or ChatGPT. Google Search Console, Google Analytics, and internal data that's kept in BigQuery. \n\nThe Bigquery MCP makes it super easy for professionals to get questions answered about their data and offers their personal Oauth login with their Google account. It offers fine-grained access controls so users can only access what they are allowed. Most stakeholders should be read-only.\n\n 💡 A few things I learned while setting it up:\n\n1. Give them BigQuery Job User and MCP Tool User on the project, and Data Viewer only on the datasets they may read. A project-wide Data Viewer grant opens every table, so that's likely not what you want.\n\n2. The tools require a project ID. Put it in the connector name or the first instruction. The assistant will otherwise not pick it up and would ask the oblivious user for it.\n\n3. Write table and column descriptions/definitions in BigQuery. That is the definition the assistant reads while looking at the data. This is the simplest version of your \"semantic layer\". There are other options, but start here and it might be enough.\n\n4. Create a separate OAuth client for the assistant, and mark it as a client for an AI agent. Don’t reuse the client that signs people into a dashboard. GCP offers a checkbox for that which you will see when setting up the Oauth client.\n\n5. The user's email account with which they have a e.g. Claude account, is the same email that needs to get MCP access in Google Cloud. If the email addresses are not matching, then the claude agent cannot authenticate.\n\nDo you need help with AI innovation at your company?\nBesides SEO, this year I've been offering AI innovation and agentic acceleration as a service as well. Q1 2027 I will be able to help another Dutch company out, so feel free to ask! | 18 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQHRvDH1ueF0NA/feedshare-shrink_800/B4EaHugshFIEAg-/0/1795002911174?e=2147483647&v=beta&t=G_-4BEW6fv0QaXefKJLEgKeuYyWWsks0LupE10djcV0",
+  "ts": "2026-11-18T11:55:13.772000+00:00",
+  "col": "t",
+  "sum": "Google BigQuery has an MCP server. Ruben Remy uses it so clients can ask Claude or ChatGPT about their GSC, GA4 and BigQuery data. His tips: give read-only access per dataset, and write table and column descriptions for the assistant to read.",
+  "themes": []
+ },
+ {
   "kind": "x",
   "url": "https://x.com/MordyOberstein/status/2123015879873134806",
   "name": "Mordy Oberstein",
@@ -403,6 +621,21 @@
   "likes": 2,
   "replies": 4,
   "ts": "2026-11-18T11:30:04+00:00"
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/feed/update/urn:li:activity:7528776512632918016/",
+  "name": "Samanyou Garg",
+  "sub": "Founder and CEO, Writesonic",
+  "avatar": null,
+  "text": "Introducing the ChatGPT Ads Library + AI Ads Index. Both completely free.\n\nThink Meta Ads Library, but for ads appearing inside ChatGPT and Google AI Overviews.\n\nYou can now search for a competitor and see the actual AI ads they're running, the messaging they're using, where they're sending customers, and even the prompts triggering those ads.\n\nAnd the numbers are getting pretty interesting.\n\nIn our November 16 sample, 18.94% of ChatGPT answers contained a sponsored ad.\nThe following day, we observed over 4,000 advertisers.\n\nJotform alone has over 1,500 captured ChatGPT ad examples in our library.\n\nWhen ChatGPT first started experimenting with ads, we built an AI Ads Index to understand how quickly this new advertising channel was evolving.\n\nNow we're taking it much further.\n\nAI Ads Library: Search advertisers, explore real ad creatives, landing pages, prompts, and where their ads are appearing.\n\nAI Ads Index: Track ad penetration, advertiser activity, industry trends, and how AI advertising is evolving over time.\n\nBoth are updated daily, and completely free.\n\nWhat I find particularly fascinating is that we're watching a new advertising channel take shape in real time.\n\nFor years, marketers have optimized for Google Ads and Meta Ads. Now there's an entirely new surface where people are actively researching, comparing, and deciding what to buy.\n\nWhich prompts trigger ads? What messaging works? How will paid placements interact with organic AI recommendations?\n\nWe're going to learn a lot over the coming months.\n\nAnd I think everyone should have access to this data, not just the brands already advertising.\n\nGo explore. You might be surprised by what your competitors are doing.\n\nLinks in the first comment. | 52 comments on LinkedIn",
+  "img": null,
+  "ts": "2026-11-18T11:09:58.515000+00:00",
+  "col": "c",
+  "sum": "Writesonic launched a free ChatGPT Ads Library and AI Ads Index. In its Nov 16 sample, 18.94% of ChatGPT answers had a sponsored ad, and it saw over 4,000 advertisers the next day. You can see competitor ads, landing pages and the prompts that trigger them.",
+  "themes": [
+   "ads"
+  ]
  },
  {
   "kind": "blog",

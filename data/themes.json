@@ -9,6 +9,15 @@
   ]
  },
  {
+  "id": "aimode",
+  "label": "AI Mode inside Search",
+  "lines": [
+   "Google is rolling out a collapsible sidebar that keeps AI Mode conversations inside the main search results.",
+   "Chris Long calls AI Mode the new default. Cyrus Shepard found that opting out of AIOs and AI Mode cut AI impressions to zero and cut organic clicks too.",
+   "Do not opt client sites out of Google's AI features, and track AI Mode citations next to organic clicks."
+  ]
+ },
+ {
   "id": "core",
   "label": "November Core Update",
   "lines": [
@@ -40,7 +49,7 @@
   "label": "Ads in AI answers",
   "lines": [
    "ChatGPT announced ads, and Microsoft confirmed ads in Bing AI Overviews in all markets except China.",
-   "Only 6.9% of ChatGPT conversations in a US panel showed purchase intent. Edward Sturm reports that Google is testing removing AI Mode from its homepage because AI Mode ads earn less.",
+   "Writesonic found sponsored ads in 18.94% of ChatGPT answers on Nov 16 and saw 4,000+ advertisers. But only 6.9% of ChatGPT conversations in a US panel showed purchase intent.",
    "Keep ad budgets on Google Search until ChatGPT ads show real results."
   ]
  },
