@@ -1,5 +1,133 @@
 [
  {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "Google's Next Update Won't Touch The Index, And Nobody Will Announce It",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-19T18:00:31+00:00",
+  "col": "b",
+  "sum": "Duane Forrester reads new Google Research work as a sign that model knowledge may update on a hidden schedule. He suggests you check what AI assistants say about a brand on a fixed schedule and track which facts change.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "Your WordPress Sitemap Isn't Broken: Chrome 158 Has Dropped XSLT",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-19T15:00:06+00:00",
+  "col": "b",
+  "sum": "Chrome 158 dropped XSLT, so WordPress sitemaps now show as raw XML in the browser. Crawlers do not use XSLT, so nothing is broken. Check the sitemap in Search Console before you change anything.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-19T14:40:05+00:00",
+  "col": "b",
+  "sum": "WordPress 7.1.5 fixes 18 vulnerabilities. One is an unauthenticated flaw that can lead to remote code execution and a site takeover, so update client sites now.",
+  "themes": [
+   "security"
+  ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "WordPress 7.2 Arrives Dec. 8: Last-Minute Changes Still Being Made",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-19T13:00:50+00:00",
+  "col": "b",
+  "sum": "WordPress 7.2 ships Dec. 8 with a new /random/ URL that redirects to a random post. It is on by default with no settings toggle, so decide before the update if client sites need code to turn it off.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-19T10:24:00-05:00",
+  "col": "b",
+  "sum": "Microsoft confirmed that Bing now shows ads in AI Overviews in all markets except China. The ads run through existing campaigns, including Performance Max and AI Max, with no separate setup.",
+  "themes": [
+   "ads"
+  ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Hotel Search Listings With Continue On Google To Book",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-19T07:41:00-05:00",
+  "col": "b",
+  "sum": "Google hotel listings now show a \"Continue on Google\" button that books the room through AI Mode with the user's Google account. More hotel bookings stay on Google and do not reach the hotel's own site.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Search Tests \"Show Original Results\" Button",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-19T07:31:00-05:00",
+  "col": "b",
+  "sum": "Google Search is testing a \"Show original results\" button. It shows results for the exact query when Google rewrites or corrects what the user typed.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Images Results With Lens To AI Mode Feature",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-19T07:11:00-05:00",
+  "col": "b",
+  "sum": "Google Images now has a Lens button that opens an AIO or AI Mode follow-up about the image. Image results become one more entry point into AI Mode.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-18T22:26:21+00:00",
+  "col": "b",
+  "sum": "OpenAI's GPT-6.2 guide says Astra writes shorter, more direct answers by default. Recheck \"be concise\" lines in your prompts. Apps that edit earlier turns can lose the model's saved reasoning.",
+  "themes": [
+   "models"
+  ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+  "name": "Google",
+  "sub": "blog.google",
+  "title": "Introducing Gemini 4 Neon",
+  "logo": "https://www.google.com/s2/favicons?domain=blog.google&sz=128",
+  "ts": "2026-11-18T21:00:00+00:00",
+  "col": "g",
+  "sum": "Google released Gemini 4 Neon, a fast model for agents and knowledge work, at $3 per million input tokens. It is live in the Gemini API and for Pro and Ultra users in the Gemini app.",
+  "themes": [
+   "models"
+  ]
+ },
+ {
   "kind": "x",
   "url": "https://x.com/CyrusShepard/status/2123096552009015643",
   "name": "Cyrus SEO",

@@ -37,9 +37,9 @@
  },
  {
   "id": "ads",
-  "label": "ChatGPT ads",
+  "label": "Ads in AI answers",
   "lines": [
-   "ChatGPT announced ads, and the first data shows weak returns.",
+   "ChatGPT announced ads, and Microsoft confirmed ads in Bing AI Overviews in all markets except China.",
    "Only 6.9% of ChatGPT conversations in a US panel showed purchase intent. Edward Sturm reports that Google is testing removing AI Mode from its homepage because AI Mode ads earn less.",
    "Keep ad budgets on Google Search until ChatGPT ads show real results."
   ]
@@ -57,18 +57,18 @@
   "id": "security",
   "label": "Plugin and script security",
   "lines": [
-   "Three security stories touch client sites this week.",
-   "Rank Math had 16 vulnerabilities in 2026, a trusted Optimizely script carried malware to 178 organizations, and the FBI tied SEO poisoning to $28 million in ransomware payments.",
-   "Update Rank Math and review third-party scripts on client sites."
+   "Four security stories touch client sites this week.",
+   "WordPress 7.1.5 fixes 18 flaws, Rank Math had 16 in 2026, an Optimizely script carried malware to 178 organizations, and the FBI tied SEO poisoning to $28 million in ransomware payments.",
+   "Update WordPress core and Rank Math, and review third-party scripts on client sites."
   ]
  },
  {
   "id": "models",
   "label": "GPT-6.2 and new models",
   "lines": [
-   "OpenAI and Microsoft launched new model families on the same day.",
-   "OpenAI released GPT-6.2 Astra for complex work and GPT-6.2 Sol for everyday work. Microsoft introduced seven MAI models at Ignite.",
-   "Both GPT-6.2 models are already live in GitHub Copilot."
+   "OpenAI, Microsoft and Google launched new model families this week.",
+   "OpenAI released GPT-6.2 Astra and Sol, Microsoft introduced seven MAI models at Ignite, and Google released Gemini 4 Neon.",
+   "OpenAI says Astra writes shorter answers by default, so recheck our saved prompts."
   ]
  },
  {
