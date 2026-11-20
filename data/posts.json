@@ -1,5 +1,65 @@
 [
  {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-20T20:20:52+00:00",
+  "col": "b",
+  "sum": "Salesforce CEO Marc Benioff posted \"Goodbye SEO\" on X to promote Palmata, its AI visibility tool. But a Salesforce guide linked from the Palmata page says SEO \"is still the foundation,\" and Aleyda Solis says AI search uses the same fundamentals. Show clients this guide when they ask if SEO still matters.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-20T20:00:34+00:00",
+  "col": "b",
+  "sum": "Lily Ray says real, named experts are the one SEO investment that lasted through every shortcut, from bought links to scaled AI listicles. In October 2026, Google added fake creator profiles with AI headshots or false credentials to its helpful content docs as a form of deception. Put real authors with full profiles on client content.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+  "name": "Google",
+  "sub": "blog.google",
+  "title": "Get your year-end tasks done with new Connected Apps",
+  "logo": "https://www.google.com/s2/favicons?domain=blog.google&sz=128",
+  "ts": "2026-11-20T18:00:00+00:00",
+  "col": "g",
+  "sum": "Google is rolling out new Connected Apps in Search and the Gemini app in the US. Users can order groceries from Albertsons, Safeway and Target, check credit with Experian and estimate taxes with H&R Block without leaving Search. Angi and Thumbtack follow in the coming weeks, so watch this for home service clients.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-20T16:17:43+00:00",
+  "col": "b",
+  "sum": "Google's Think with Google account told CMOs: \"AI didn't make your brand invisible in Search. Your content did.\" The example it wants brands to stop is a generic \"Top 10 Things to Consider\" post, not every listicle. Check each planned tips post for first-hand knowledge before we write it.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+  "name": "Search Engine Journal",
+  "sub": "searchenginejournal.com",
+  "title": "AI Citations: What To Check Before Reacting To A Lost One",
+  "logo": "https://www.google.com/s2/favicons?domain=searchenginejournal.com&sz=128",
+  "ts": "2026-11-20T13:00:00+00:00",
+  "col": "b",
+  "sum": "Ahrefs tracked about 37,500 citations in AIOs, AI Mode, ChatGPT, Gemini and Copilot for 20 days. About three in four lost citations were temporary, and half came back within three days. Do not change a page for one lost citation. Review it if the citation is still gone after two or three weeks.",
+  "themes": []
+ },
+ {
   "kind": "li",
   "url": "https://www.linkedin.com/posts/nathangotch_were-living-in-a-world-where-companies-are-share-7529309189127659520-8rO1/",
   "name": "Nathan Gotch",
