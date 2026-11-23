@@ -1,0 +1,10 @@
+{
+ "items": [
+  {"theme": "core", "text": "The November Core Update is still rolling out, and SERP trackers lost up to 98% of their data on Nov. 18. Judge ranking drops in GSC before you report them."},
+  {"theme": "creators", "text": "Google Search Profiles are now live worldwide and can show LinkedIn and Threads accounts. Claim and complete profiles for client authors and experts."},
+  {"theme": "tracking", "text": "AI citations change with each model update. One ChatGPT update brought 51% more cited URLs per prompt, so report citation trends over weeks, not single checks."},
+  {"theme": "traffic", "text": "Analytics miss most AI-driven visits. Customers name AI chatbots more than half the time when asked how they found a business, so add a 'How did you hear about us?' field to client forms."},
+  {"theme": "ads", "text": "AI answers now show ads, shopping results and coupon codes. Check how e-commerce clients show up for product and coupon prompts."},
+  {"theme": "local", "text": "Ask Maps can now call local businesses to check hours and prices. Check the GBP call setting for each local client and brief their staff."}
+ ]
+}
