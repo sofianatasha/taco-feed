@@ -1,10 +1,10 @@
 {
  "items": [
-  {"theme": "core", "text": "The November Core Update is still rolling out, and SERP trackers lost up to 98% of their data on Nov. 18. Judge ranking drops in GSC before you report them."},
-  {"theme": "creators", "text": "Google Search Profiles are now live worldwide and can show LinkedIn and Threads accounts. Claim and complete profiles for client authors and experts."},
-  {"theme": "tracking", "text": "AI citations change with each model update. One ChatGPT update brought 51% more cited URLs per prompt, so report citation trends over weeks, not single checks."},
-  {"theme": "traffic", "text": "Analytics miss most AI-driven visits. Customers name AI chatbots more than half the time when asked how they found a business, so add a 'How did you hear about us?' field to client forms."},
-  {"theme": "ads", "text": "AI answers now show ads, shopping results and coupon codes. Check how e-commerce clients show up for product and coupon prompts."},
-  {"theme": "local", "text": "Ask Maps can now call local businesses to check hours and prices. Check the GBP call setting for each local client and brief their staff."}
+  {"theme": "core", "text": "The November Core Update still moves rankings, and Glenn Gabe sees scaled AI content drop hard. Judge drops in GSC, not Nov. 18 rank data, and audit thin location pages."},
+  {"theme": "hydrogen", "text": "In David Konitzny's data, only 51.8% of AIOs put the first link in the first third on Nov. 20, down from 76.8% in September. Recheck AIO citations for priority keywords."},
+  {"theme": "security", "text": "WordPress 7.1.5 fixes 18 flaws, and 7.2 ships Dec. 8 with a /random/ URL on by default. Update client sites now, and decide which ones need code to turn /random/ off."},
+  {"theme": "tracking", "text": "Ahrefs found that about 3 in 4 lost AI citations were temporary, and half came back within three days. Report citation trends over two or three weeks, not single checks."},
+  {"theme": "content", "text": "Google told CMOs that their content, not AI, made their brands invisible in Search. Check each planned post for first-hand knowledge, original data and a named expert before we write it."},
+  {"theme": "local", "text": "Since Nov. 16, Ask Maps can call local businesses to check open times and prices. Check each local client's GBP call setting, and tell staff that their answers go back to the customer."}
  ]
 }

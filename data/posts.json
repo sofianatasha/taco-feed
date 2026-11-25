@@ -147,6 +147,20 @@
   ]
  },
  {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/googlebots-additions-42604.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-23T14:20:00-05:00",
+  "col": "b",
+  "sum": "Google added 12 crawlers and user-triggered fetchers to its docs, such as GoogleDocs, Google-Apps-Script, GoogleImageProxy and Chrome-Lighthouse. Google says they are not new, but they show up often in server logs.",
+  "themes": [
+   "agents"
+  ]
+ },
+ {
   "kind": "x",
   "url": "https://x.com/glenngabe/status/2124862137285677115",
   "name": "Glenn Gabe",
@@ -391,7 +405,7 @@
   "col": "c",
   "sum": "You can now connect ChatGPT Business Hub to a ChatGPT Ads account.",
   "themes": [
-   "hub",
+   "traffic",
    "ads"
   ]
  },
@@ -577,7 +591,9 @@
   "ts": "2026-11-21T14:26:57+00:00",
   "col": "g",
   "sum": "An AIO gave Andrew Shotland a phone number when he searched for Vanguard's support line, and he warns AIOs are not safe for YMYL searches. Check what AIOs show for client phone numbers.",
-  "themes": []
+  "themes": [
+   "hydrogen"
+  ]
  },
  {
   "kind": "x",
@@ -610,7 +626,8 @@
   "col": "g",
   "sum": "One question can start several searches through query fan-out. Neil Patel says a single product page now competes with pages that also answer the follow-up questions.",
   "themes": [
-   "hydrogen"
+   "hydrogen",
+   "content"
   ]
  },
  {
@@ -691,7 +708,7 @@
   "sum": "Lily Ray says real, named experts are the one SEO investment that lasted through every shortcut, from bought links to scaled AI listicles. In October 2026, Google added fake creator profiles with AI headshots or false credentials to its helpful content docs as a form of deception. Put real authors with full profiles on client content.",
   "themes": [
    "creators",
-   "debate"
+   "content"
   ]
  },
  {
@@ -705,7 +722,8 @@
   "col": "g",
   "sum": "Google is rolling out new Connected Apps in Search and the Gemini app in the US. Users can order groceries from Albertsons, Safeway and Target, check credit with Experian and estimate taxes with H&R Block without leaving Search. Angi and Thumbtack follow in the coming weeks, so watch this for home service clients.",
   "themes": [
-   "aimode"
+   "aimode",
+   "agents"
   ]
  },
  {
@@ -737,6 +755,7 @@
   "col": "b",
   "sum": "Google's Think with Google account told CMOs: \"AI didn't make your brand invisible in Search. Your content did.\" The example it wants brands to stop is a generic \"Top 10 Things to Consider\" post, not every listicle. Check each planned tips post for first-hand knowledge before we write it.",
   "themes": [
+   "content",
    "debate"
   ]
  },
@@ -1040,7 +1059,8 @@
   "col": "s",
   "sum": "Anastasia Kotsiubynska builds GEO content plans from the cited domains and cited URLs of tracked prompts. She warns that AI source data alone can cause cannibalization and hurt Google performance.",
   "themes": [
-   "tracking"
+   "tracking",
+   "content"
   ]
  },
  {
@@ -1115,7 +1135,9 @@
   "ts": "2026-11-19T15:00:06+00:00",
   "col": "b",
   "sum": "Chrome 158 dropped XSLT, so WordPress sitemaps now show as raw XML in the browser. Crawlers do not use XSLT, so nothing is broken. Check the sitemap in Search Console before you change anything.",
-  "themes": []
+  "themes": [
+   "security"
+  ]
  },
  {
   "kind": "li",
@@ -1176,7 +1198,9 @@
   "ts": "2026-11-19T13:15:00+00:00",
   "col": "s",
   "sum": "Adobe bought Semrush for $1.9 billion. Tim Soulo says Ahrefs, its main rival, stays independent.",
-  "themes": []
+  "themes": [
+   "tracking"
+  ]
  },
  {
   "kind": "li",
@@ -1203,7 +1227,9 @@
   "ts": "2026-11-19T13:00:50+00:00",
   "col": "b",
   "sum": "WordPress 7.2 ships Dec. 8 with a new /random/ URL that redirects to a random post. It is on by default with no settings toggle, so decide before the update if client sites need code to turn it off.",
-  "themes": []
+  "themes": [
+   "security"
+  ]
  },
  {
   "kind": "li",
@@ -1216,7 +1242,9 @@
   "ts": "2026-11-19T11:57:08.963000+00:00",
   "col": "g",
   "sum": "Site Kit, Google's WordPress plugin, can now add a newsletter sign-up form from the WordPress dashboard. It needs no code and works on all sites that use Site Kit with Google Analytics.",
-  "themes": []
+  "themes": [
+   "security"
+  ]
  },
  {
   "kind": "li",
@@ -1447,7 +1475,9 @@
   "ts": "2026-11-18T16:50:37+00:00",
   "col": "s",
   "sum": "Cyrus Shepard and Ahrefs studied the top-linked content on 535 sites to find pages that earn links year after year. Blog posts did badly. The study lists 20 content types that earn links on their own.",
-  "themes": []
+  "themes": [
+   "content"
+  ]
  },
  {
   "kind": "x",
@@ -1477,7 +1507,9 @@
   "ts": "2026-11-18T15:59:01.223000+00:00",
   "col": "g",
   "sum": "Google released Deep Review, a free AI tool that fact-checks a document before you publish it. It flags factual errors, unsupported claims and gaps in logic. You get two free reviews a week.",
-  "themes": []
+  "themes": [
+   "content"
+  ]
  },
  {
   "kind": "x",
@@ -1582,7 +1614,9 @@
   "sub": "glenngabe",
   "col": "s",
   "sum": "DMGT (Daily Mail) joins the NYT and the FT in the SPUR coalition against AI use of content without permission.",
-  "themes": [],
+  "themes": [
+   "agents"
+  ],
   "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
   "text": "New members -> DMGT, owner of the Daily Mail and New Scientist, joins the NYT and others in the SPUR coalition, seeking to stop AI firms from using content without permission\n\n\"The group joins the FT, Guardian Media Group, Telegraph Media Group, BBC, Sky News, Mediahuis, and the",
   "img": null,
@@ -1696,7 +1730,7 @@
   "col": "c",
   "sum": "One week in, Barry still has zero data in his ChatGPT Business Hub.",
   "themes": [
-   "hub"
+   "traffic"
   ],
   "avatar": "https://pbs.twimg.com/profile_images/1433030583144390668/FKJ9JkUA_bigger.jpg",
   "text": "A week later, I still have zero data in my ChatGPT Business hub - seroundtable.com/chatgpt-busine…",
@@ -1712,7 +1746,9 @@
   "sub": "sejournal",
   "col": "g",
   "sum": "Google explains how to avoid SEO problems when you move a site to a new CDN.",
-  "themes": [],
+  "themes": [
+   "security"
+  ],
   "avatar": "https://pbs.twimg.com/profile_images/2026045893024096256/LmcENam1_bigger.jpg",
   "text": "Google Explains How To Avoid CDN Migration SEO Problems. via @martinibuster: hubs.li/Q04FF0F80\n\n#seonews  #Google #SEO",
   "img": "https://pbs.twimg.com/media/HXaDXLFWwAAymul.jpg",
@@ -1727,7 +1763,9 @@
   "sub": "searchenginejournal.com",
   "col": "b",
   "sum": "Turn sales calls, support tickets and forum threads into a content plan built on the questions customers ask AI.",
-  "themes": [],
+  "themes": [
+   "content"
+  ],
   "title": "How To Find The Questions Your Customers Ask AI",
   "logo": "https://pbs.twimg.com/profile_images/2026045893024096256/LmcENam1_bigger.jpg",
   "ts": "2026-11-18T12:00:00-03:00"
@@ -1743,7 +1781,9 @@
   "ts": "2026-11-18T11:58:08.718000+00:00",
   "col": "t",
   "sum": "Claude Code has an experimental Code Mode. The agent writes one script that chains its tool calls, so it does not stop to read each result. Turn it on with CLAUDE_CODE_EXPERIMENTAL_CODE_MODE=1.",
-  "themes": []
+  "themes": [
+   "models"
+  ]
  },
  {
   "kind": "li",
@@ -1799,7 +1839,9 @@
   "sub": "seroundtable.com",
   "col": "b",
   "sum": "Microsoft Advertising announces what it calls its biggest upgrade to bidding models.",
-  "themes": [],
+  "themes": [
+   "ads"
+  ],
   "title": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models",
   "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
   "ts": "2026-11-18T09:31:00-03:00"
@@ -1865,7 +1907,7 @@
   "col": "s",
   "sum": "LLMs like to cite data. Neil Patel says most companies already hold unique data that LLMs would cite, but they do not see it.",
   "themes": [
-   "tracking"
+   "content"
   ]
  },
  {
@@ -1882,7 +1924,7 @@
   "col": "s",
   "sum": "Google warns against a separate page for every version of a query. Neil Patel says evidence wins instead: real data, screenshots, real pricing and honest limits.",
   "themes": [
-   "debate"
+   "content"
   ]
  },
  {
@@ -1909,7 +1951,9 @@
   "sub": "OfficialLoganK",
   "col": "g",
   "sum": "Google AI Studio now supports custom domains and builds Android apps you can install from Google Play (US only).",
-  "themes": [],
+  "themes": [
+   "models"
+  ],
   "avatar": "https://pbs.twimg.com/profile_images/1943787288955084800/QOl7OJMc_bigger.jpg",
   "text": "Big @GoogleAIStudio updates today : ) \n\n- Support for Custom Domains (buy it direct in AI Studio)\n- Build an Android App and download it to your phone through the Google Play store (US only for now)\n- Securely add AI to your Android Apps in AI Studio\n\nai.studio/build",
   "img": "https://pbs.twimg.com/amplify_video_thumb/2122818275163930624/img/YENet75JbGWSBwLS.jpg",
@@ -2025,6 +2069,7 @@
   "col": "g",
   "sum": "Google is testing removing AI Mode from its homepage, because AI Mode ads earn less for Google and for advertisers.",
   "themes": [
+   "aimode",
    "ads"
   ],
   "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQH8ff7dRFcwlw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1676566898420?e=2147483647&v=beta&t=yzQT5jhDKKHlA-X5T1xGOmJtfF1GYMQ9TCQSpZ_MTs0",
@@ -2040,7 +2085,7 @@
   "col": "c",
   "sum": "One of the higher CTRs she has seen in ChatGPT Business Hub. The 17 clicks converted at 12%.",
   "themes": [
-   "hub"
+   "traffic"
   ],
   "avatar": "https://pbs.twimg.com/profile_images/1935460090821189632/UvkORAsU_bigger.jpg",
   "text": "This is cool to see - this is one of the higher CTRs I’ve seen in ChatGPT Business Hub so far, and the marketing lead tells me that the conversion rate among those 17 clicks is 12% 🤯\n\n(Yes it’s a small biz/startup so the numbers are tiny, but highly valuable!)",
@@ -2094,7 +2139,9 @@
   "ts": "2026-11-17T18:32:21.166000+00:00",
   "col": "g",
   "sum": "Google Tags are now Google Tag Manager containers. You manage them in the GTM interface, and they keep all Google Tag features. On-page behavior and data collection do not change.",
-  "themes": []
+  "themes": [
+   "gsc"
+  ]
  },
  {
   "kind": "x",
@@ -2138,7 +2185,8 @@
   "col": "g",
   "sum": "Gemini gets more agentic: in the US it can call local businesses and pay and check out for users.",
   "themes": [
-   "agents"
+   "agents",
+   "local"
   ],
   "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
   "text": "Gemini Update. It's becoming more agentic...\n\nFrom Josh:\nMany highly requested features are rolling out now, starting in the US: \n* Call local businesses (via Google Duplex) \n* Pay and check out (via Google Pay) \n* Text Gemini on Android or iOS (via RCS) \n* Forward emails to",
@@ -2155,7 +2203,7 @@
   "col": "c",
   "sum": "ChatGPT Business Hub is a worse GSC: real data, but few clicks, no prompts and an odd definition of a mention.",
   "themes": [
-   "hub"
+   "traffic"
   ],
   "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQHpAoxOrqhQmQ/profile-displayphoto-scale_400_400/B4EZfBsEGwHcAg-/0/1751301244427?e=2147483647&v=beta&t=OH6j_3-uSdr5ZzbWEiFGBCg0ciT4vaO9Yy5fgHj-xdo",
   "text": "My thoughts on the ChatGPT Business Hub: a worse GSC.\n\nBut also more than GSC. It includes functionality similar to Google Merchant Center and Google Business Profile.\n\nThe big plus? „Real“ data. Finally!\n\nThe big minus? No prompts, very generic topics, limited historical data, and a weird definition of what a mention is.\n\nAlso, very few clicks! But that is as expected.\n\nWeird definition of mentions? Hear me out. Your brand is mentioned with a link to your website? That’s a mention! Your website is cited? That is a mention too - even if your brand was not mentioned in the answer at all.\n\nYour brand is mention without a link? Or the link goes to your LinkedIn profile? Those are not mentions. \n\nThere is also no differentiation between branded and unbranded prompts.\n\nIn the end, it has the purpose to convince you to give OpenAI access to all your data. It will not help you gain more citations, understand how you perform vs competitors, are help you be recommended more often.\n\nSimilar to Google Search Console and Bing Webmaster Tools, it is a data source. It has value. But it is only one of multiple data points that should inform your execution layer and success measurement.\n\nMore details in the Peec AI blog. | 53 comments on LinkedIn",
@@ -2227,7 +2275,9 @@
   "sub": "blog.google",
   "col": "g",
   "sum": "Tasks in Gemini is now free in six countries, with new features.",
-  "themes": [],
+  "themes": [
+   "models"
+  ],
   "title": "Put Gemini to work for you",
   "logo": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_bigger.jpg",
   "ts": "2026-11-17T14:00:00-03:00"
@@ -2252,7 +2302,9 @@
   "sub": "rustybrick",
   "col": "g",
   "sum": "John Mueller: a site move does not improve a site's overall quality.",
-  "themes": [],
+  "themes": [
+   "security"
+  ],
   "avatar": "https://pbs.twimg.com/profile_images/1433030583144390668/FKJ9JkUA_bigger.jpg",
   "text": "Google's John Mueller said A site move doesn't improve the site's overall quality\n\nseroundtable.com/google-site-mo…",
   "img": null,
@@ -2328,7 +2380,9 @@
   "sub": "seroundtable.com",
   "col": "b",
   "sum": "John Mueller: do not serve a 200 status code to Googlebot when your site is down.",
-  "themes": [],
+  "themes": [
+   "security"
+  ],
   "title": "Google On Why Serving A 200 Status Code When Your Site Is Down Is Bad",
   "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
   "ts": "2026-11-17T09:31:00-03:00"
@@ -2340,7 +2394,9 @@
   "sub": "openai.com",
   "col": "c",
   "sum": "ChatGPT gets a Sales plugin and 30+ new and expanded partner plugins.",
-  "themes": [],
+  "themes": [
+   "models"
+  ],
   "title": "Introducing ChatGPT for Sales",
   "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
   "ts": "2026-11-17T05:00:00-03:00"
@@ -2353,6 +2409,7 @@
   "col": "b",
   "sum": "Ask Maps now finds open appointments and calls local businesses for users. Check what Business Profile says about Google's automated calls.",
   "themes": [
+   "local",
    "agents"
   ],
   "title": "Google Adds Appointment Finding & Business Calls To Ask Maps",
@@ -2370,7 +2427,9 @@
   "ts": "2026-11-16T13:39:50.792000+00:00",
   "col": "g",
   "sum": "Google adds new PMax controls. You can set Search partners to Low with a 0% cap, cap Display spend and pick which channel gets budget first. One healthcare client cut CPL by 17% after it set Display and Search partners to 0%.",
-  "themes": []
+  "themes": [
+   "ads"
+  ]
  },
  {
   "kind": "blog",
@@ -2379,7 +2438,9 @@
   "sub": "blog.google",
   "col": "g",
   "sum": "Gemini Notebook now turns notes, research and sources into interactive sites.",
-  "themes": [],
+  "themes": [
+   "models"
+  ],
   "title": "Transform notes into interactive sites with Gemini Notebook",
   "logo": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_bigger.jpg",
   "ts": "2026-11-16T13:00:00-03:00"
@@ -2392,6 +2453,7 @@
   "col": "g",
   "sum": "Ask Maps, the biggest Google Maps update in over 10 years, is coming to Europe.",
   "themes": [
+   "local",
    "agents"
   ],
   "title": "Ask Maps is coming to Europe",

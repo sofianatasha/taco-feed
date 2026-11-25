@@ -4,8 +4,71 @@
   "label": "Core update and spam",
   "lines": [
    "The November Core Update is still rolling out, and Google added FAQs to its back button hijacking spam policy.",
-   "Glenn Gabe sees big surges and drops since about Nov. 13, and sites that scaled AI content drop hard. On Nov. 18, SERP trackers lost up to 98% of their data.",
-   "Judge drops in GSC, skip Nov. 18 rank data, and audit scaled or thin pages."
+   "Glenn Gabe sees big surges and drops since about Nov. 13, and SERP trackers lost up to 98% of their data on Nov. 18 (Derek Perkins).",
+   "Judge drops in GSC, not Nov. 18 rank data, and audit scaled AI pages and thin location pages."
+  ]
+ },
+ {
+  "id": "hydrogen",
+  "label": "AIOs on Gemini 4 Hydrogen",
+  "lines": [
+   "Google moved Search to Gemini 4 Hydrogen on Nov. 17, with better intent understanding, smarter query fan-out and more links.",
+   "David Konitzny tracked 88M+ AIOs, and only 51.8% put the first inline link in the first third on Nov. 20, down from 76.8% on Sept. 21.",
+   "Recheck AIO citations for priority keywords, and answer the follow-up questions that fan-out asks."
+  ]
+ },
+ {
+  "id": "tracking",
+  "label": "AI visibility tracking",
+  "lines": [
+   "New studies show that AI citations change fast and differ by platform.",
+   "Ahrefs found that about 3 in 4 lost citations were temporary, and DataForSEO shows that AIOs cite YouTube most and ChatGPT cites Wikipedia most.",
+   "Report citation trends over two or three weeks, not single checks, and test YouTube for clients that invest in AI search."
+  ]
+ },
+ {
+  "id": "content",
+  "label": "Content that earns visibility",
+  "lines": [
+   "Google and SEO experts say generic content loses, while real expertise and original data win.",
+   "Think with Google told CMOs to stop generic 'Top 10' posts, and Cyrus Shepard's Ahrefs study of 535 sites found that blog posts did badly at earning links.",
+   "Check each planned post for first-hand knowledge, original data and a named expert before we write it."
+  ]
+ },
+ {
+  "id": "local",
+  "label": "Local SEO and AI",
+  "lines": [
+   "Ask Maps now calls local businesses for users, and Google is bringing it to Europe.",
+   "Whitespark found the business website in 86% of Maps Web Results across 21,000+ businesses.",
+   "Check each client's GBP call setting, keep websites and citations complete, and get reviews beyond Google."
+  ]
+ },
+ {
+  "id": "security",
+  "label": "WordPress and site health",
+  "lines": [
+   "WordPress 7.1.5 fixes 18 flaws, and WordPress 7.2 ships Dec. 8 with a new /random/ URL that is on by default.",
+   "Rank Math had 16 flaws in 2026, and a hacked Optimizely script reached 178 organizations (Search Engine Journal).",
+   "Update core and Rank Math now, and decide before Dec. 8 which client sites need code to turn off /random/."
+  ]
+ },
+ {
+  "id": "aimode",
+  "label": "AI Mode inside Search",
+  "lines": [
+   "Google keeps adding to AI Mode: a sidebar for past chats, Dive Deeper links, Connected Apps and hotel booking.",
+   "Google also tests removing AI Mode from the top navigation, and desktop queries of 5+ words grew from 29.3% to 34.8% in a year (DataForSEO).",
+   "Do not opt client sites out of AI features, since organic clicks dropped in Cyrus Shepard's opt-out test."
+  ]
+ },
+ {
+  "id": "traffic",
+  "label": "AI traffic and attribution",
+  "lines": [
+   "Analytics undercount AI visits, and ChatGPT Business Hub gives very little data so far.",
+   "Nearly 7 in 10 US Google searches ended without a click from January to April, and Barry Schwartz had zero Business Hub data after a week.",
+   "Add a 'How did you hear about us?' field to client forms, and do not use Business Hub numbers as benchmarks yet."
   ]
  },
  {
@@ -13,62 +76,17 @@
   "label": "Google Search Profiles",
   "lines": [
    "Google Search Profiles are now live worldwide.",
-   "Barry Schwartz confirmed the global rollout. Profiles can show LinkedIn and Threads accounts, and Google tests Medium pages.",
-   "Claim and complete Search Profiles for client authors and experts."
-  ]
- },
- {
-  "id": "tracking",
-  "label": "AI visibility tracking",
-  "lines": [
-   "New data shows what drives AI citations and how fast they change.",
-   "One ChatGPT update brought 51% more cited URLs per prompt (Kevin Indig). AIOs cite YouTube most, and ChatGPT cites Wikipedia most (DataForSEO).",
-   "Report citation trends over weeks, not single checks, and check which prompts recommend the client."
-  ]
- },
- {
-  "id": "traffic",
-  "label": "AI traffic and attribution",
-  "lines": [
-   "Analytics undercount AI-driven visits, and zero-click searches keep growing.",
-   "Nearly 7 in 10 US Google searches ended without a click from January to April. Cyrus Shepard sees customers name AI chatbots more than half the time when asked how they found a business.",
-   "Add a 'How did you hear about us?' field to client forms, and flag bot traffic before you report."
+   "Barry Schwartz confirmed the rollout, and Lily Ray reports that Google flagged her Substack link with no way to dispute it.",
+   "Claim and complete Search Profiles for client authors, and check which links Google flags."
   ]
  },
  {
   "id": "ads",
-  "label": "AI ads and shopping",
+  "label": "AI ads and paid search",
   "lines": [
    "Ads, shopping results and coupon codes now show inside AI answers.",
-   "ChatGPT's agent writes its own ad queries, and OpenAI dropped its line that shopping results ignore partnerships. Writesonic found ads in 18.94% of ChatGPT answers on Nov. 16.",
-   "Keep ad budgets on Google Search for now, and check client coupon and product prompts."
-  ]
- },
- {
-  "id": "local",
-  "label": "Local SEO and AI",
-  "lines": [
-   "AI tools now use more local signals than the map pack.",
-   "Whitespark found the business website in 86% of Maps Web Results across 21,000+ businesses. Since Nov. 16, Ask Maps can call local businesses for users.",
-   "Keep client websites and citations complete, check GBP call settings, and get reviews beyond Google."
-  ]
- },
- {
-  "id": "aimode",
-  "label": "AI Mode inside Search",
-  "lines": [
-   "Google keeps adding to AI Mode: a sidebar with past chats, Dive Deeper links and Connected Apps.",
-   "Google also tests removing AI Mode from the top navigation. Desktop queries of 5+ words grew from 29.3% to 34.8% in a year (DataForSEO).",
-   "Do not opt client sites out of AI features, since that cut organic clicks in Cyrus Shepard's test."
-  ]
- },
- {
-  "id": "hydrogen",
-  "label": "Gemini 4 Hydrogen in Search",
-  "lines": [
-   "Google moved Search to Gemini 4 Hydrogen on Nov. 17, with better intent understanding and more query fan-out.",
-   "AIOs now quote social posts and articles and place the first inline link lower. Only 51.8% put it in the first third of the answer on Nov. 20, down from 76.8% in September (David Konitzny).",
-   "Recheck AIO citations for priority keywords, and answer the follow-up questions that fan-out asks."
+   "Writesonic found ads in 18.94% of ChatGPT answers on Nov. 16, and Microsoft confirmed Bing ads in AIOs in all markets except China.",
+   "Audit AI Max search terms, test the new PMax channel caps, and check client coupon and product prompts."
   ]
  },
  {
@@ -76,53 +94,35 @@
   "label": "AI agents and crawlers",
   "lines": [
    "Google and Microsoft now build crawlers, tools and test webs for AI agents.",
-   "Google published a Google-Agent help doc and built a test web for agents. Ask Maps can call businesses, and Connected Apps let users call a business's MCP from Search.",
-   "Check robots.txt rules and logs for Google-Agent, and see which clients should apply for Connected Apps."
+   "Google documented Google-Agent and 12 more crawlers and fetchers, and Nectiv found that 22% of 300 tech sites serve markdown to agents.",
+   "Check robots.txt rules and logs for the new agents and fetchers, and see which clients should apply for Connected Apps."
+  ]
+ },
+ {
+  "id": "gsc",
+  "label": "Search Console and Google tags",
+  "lines": [
+   "The Search Analytics API now labels queries as branded or non-branded, and Google Tags are now Tag Manager containers.",
+   "Kevin Indig sees bot traffic in GSC and GA4 for many clients, and Lily Ray got a warning after one Request Indexing click.",
+   "Pull non-branded clicks from the API, and flag bot spikes before you report growth."
   ]
  },
  {
   "id": "debate",
   "label": "SEO vs GEO debate",
   "lines": [
-   "Big brands say SEO is dead, but SEO experts show AI search still runs on SEO basics.",
-   "Salesforce's CEO said 'Goodbye SEO', while OpenAI hires a B2B SEO and AEO lead at $239k to $265k. Neil Patel says Google Search ignores special AI schema and llms.txt files.",
-   "Keep client budgets on SEO fundamentals, and skip GEO add-ons that Google ignores."
+   "Big brands say SEO is dead, but SEO experts show that AI search still runs on SEO basics.",
+   "Salesforce's CEO posted 'Goodbye SEO', while OpenAI hires a B2B SEO and AEO lead at $239k to $265k.",
+   "Keep client budgets on SEO fundamentals, and skip AI schema and llms.txt add-ons that Neil Patel says Google Search ignores."
   ]
  },
  {
   "id": "models",
-  "label": "New model launches",
+  "label": "AI model and app launches",
   "lines": [
-   "Google released Gemini 4 Neon, after new model families from OpenAI and Microsoft.",
-   "Gemini 4 Neon use on Perplexity grew 10.6% a day, and Marie Haynes now uses it for most work. OpenAI released GPT-6.2 Astra and Sol, and Microsoft introduced seven MAI models.",
+   "Google released Gemini 4 Neon, after new models from OpenAI and Microsoft.",
+   "Gemini 4 Neon use on Perplexity grew 10.6% a day (Aravind Srinivas), and OpenAI says GPT-6.2 Astra writes shorter answers by default.",
    "Retest saved prompts on the new models, since answers and sources change."
-  ]
- },
- {
-  "id": "hub",
-  "label": "ChatGPT Business Hub",
-  "lines": [
-   "ChatGPT Business Hub gives real data, but very little of it, and it now connects to ChatGPT Ads accounts.",
-   "Barry Schwartz still has zero data after a week. Malte Landwehr says it counts a citation as a mention even when the brand is not named.",
-   "One account got 17 clicks that converted at 12%. Do not use these numbers as benchmarks yet."
-  ]
- },
- {
-  "id": "gsc",
-  "label": "Search Console changes",
-  "lines": [
-   "The Search Analytics API now labels queries as branded or non-branded and adds multimodal search data.",
-   "Lily Ray got a warning pop-up after one Request Indexing click, and Kevin Indig sees bot traffic in GSC for many clients.",
-   "Pull non-branded clicks from the API, and flag bot spikes before you report growth."
-  ]
- },
- {
-  "id": "security",
-  "label": "Plugin and script security",
-  "lines": [
-   "Four security stories touch client sites this week.",
-   "WordPress 7.1.5 fixes 18 flaws, Rank Math had 16 in 2026, an Optimizely script carried malware to 178 organizations, and the FBI tied SEO poisoning to $28 million in ransomware payments.",
-   "Update WordPress core and Rank Math, and review third-party scripts on client sites."
   ]
  }
 ]
