@@ -1,6 +1,666 @@
 [
  {
   "kind": "x",
+  "url": "https://x.com/glenngabe/status/2125591886937141625",
+  "name": "Glenn Gabe",
+  "sub": "glenngabe",
+  "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
+  "text": "Pretty nifty search volatility index created by @SERanking (in beta). Tracks 10K queries daily in 20 niche categories. You can filter by niche, date range, and intent. And then you can filter by serps with AIOs and without. And finally, you can filter by \"impact zone\" like top",
+  "img": "https://pbs.twimg.com/media/HX-eY3SXYAAbNig.jpg",
+  "likes": 5,
+  "replies": 2,
+  "ts": "2026-11-25T14:06:12+00:00",
+  "col": "s",
+  "sum": "SE Ranking's new search volatility index (beta) tracks 10K queries a day in 20 niches. You can filter by niche, intent and SERPs with or without AIOs.",
+  "themes": [
+   "core"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/glenngabe/status/2125586338871230552",
+  "name": "Glenn Gabe",
+  "sub": "glenngabe",
+  "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
+  "text": "Now disallows all bots by default -> Dow Jones now disallows all bots by default on WSJ and its other consumer news sites; WSJ has a whitelist with 60+ bots, including three scrapers from OpenAI\n\n“As bot traffic has shifted from discovery-oriented use cases toward systems that",
+  "img": null,
+  "likes": 4,
+  "replies": 6,
+  "ts": "2026-11-25T13:44:09+00:00",
+  "col": "s",
+  "sum": "Dow Jones now blocks all bots by default on WSJ and its other consumer news sites. WSJ keeps a list of 60+ allowed bots, with three OpenAI scrapers on it.",
+  "themes": [
+   "agents"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/metehanyesilyurt_black-friday-is-in-2-days-most-ai-search-ugcPost-7531346311422353408-XDnI/",
+  "name": "Metehan Yeşilyurt",
+  "sub": "GEO Researcher",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGITfc3ckgs2A/profile-displayphoto-scale_400_400/B4DZ7MKVisLAAg-/0/1781541725327?e=2147483647&v=beta&t=525DNqjJGuvjSRagLvXDVyw8It9AxWatEbYlsLhX-Mc",
+  "text": "Black Friday is in 2 days. Most AI search work takes longer than that, but a few things are still worth doing this week. I just published a report you might want to check. \n\nI looked at how ChatGPT, Google AI Overviews and AI Mode answered US shopping questions from Oct 12 to Nov 19. Here is what you can still do in 2 days:\n\n1. Put your deals on the pages AI already finds. ChatGPT only adds \"Black Friday\" to its searches when the shopper asks for it (98% vs under 1%). Someone asking for \"the best cordless vacuum\" on Friday gets a normal search. So add the deal to your best-of and review pages, not only to your Black Friday landing page.\n\n2. Check your offers at the big retailers. In the US, Walmart has 13% of ChatGPT's product card merchant slots. Amazon has less than 0.1% on all three engines. If your products sell at Walmart, Target or Best Buy, make sure the price and the deal are right there today. Walmart is leading at the moment and they just released integrations with shopping agents. \n\n3. If you run coupon pages, ask for codes tied to your site. ChatGPT now shows coupon codes in a deal card with a Copy code button, and Google writes the codes into the answer. A shopper who copies the code never clicks your link, so a cookie-based affiliate deal may not pay you.\n\nBonus: Publishers. Know which publishers each LLM/engine trusts. On ChatGPT, Condé Nast leads (Vogue, Allure, Wired, GQ). On AI Overviews, Ziff Davis leads (CNET, PCMag, Mashable). If one of their reviews already features your product, ask them to add your Black Friday & Cyber Monday price. \n\nAnalyzing the trends is super easy if you're using Peec AI already. \n\nFull study with all the insights in comment  👇",
+  "img": "https://media.licdn.com/dms/image/v2/D4D22AQG4j0T_skzmfA/feedshare-shrink_800/B4DaIS3j3iHIAg-/0/1795612884698?e=2147483647&v=beta&t=9jEWxrSmd1NxF30PgY5-0EDglvtccaoSsTUe9T-YFIs",
+  "ts": "2026-11-25T13:21:26.291000+00:00",
+  "col": "c",
+  "sum": "Metehan Yeşilyurt checked US shopping answers in ChatGPT, AIOs and AI Mode. ChatGPT adds 'Black Friday' to its searches only when the shopper asks, and Walmart holds 13% of ChatGPT's product card merchant slots.",
+  "themes": [
+   "ads"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/liamdunne05_reddit-retrieval-research-carousel-ugcPost-7531344770393083904-Ozpe/",
+  "name": "Liam Dunne",
+  "sub": "Co-founder, Discovered Labs",
+  "avatar": "https://media.licdn.com/dms/image/v2/C4D03AQFeHQc14EX_sg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1650123730377?e=2147483647&v=beta&t=1vWsKNf-3iahRzqgltRzZTq9SubjJ5NpDjFOVVUTZJA",
+  "text": "I've seen a few people saying Reddit is overhyped for AEO because citations have fallen off a cliff. Our research team analyzed 291,607 ChatGPT citations and investigated how it retrieves Reddit content, and there’s a big piece missing from that narrative.\n\nLet me start off by saying a decline has effectively happened. Reddit's share of ChatGPT citations dropped from 0.35% to 0.12% between our 2025 and 2026 measurements \n\nBut citations are only the “visible” part of it. So we looked at the retrieval data, and found this:\n\n→ ChatGPT has a dedicated retrieval mechanism for Reddit\n\nThis means that rather than competing with other websites in regular search results, Reddit has its own route that can pull up to 12 threads into ChatGPT's reading list \n\n→ ChatGPT has become much more selective about when it uses Reddit\n\nIn our latest tests, ChatGPT retrieved Reddit in roughly 1/4 search turns (vs almost in every query last year). It also comes up primarily when people ask for opinions, experiences and recommendations. I.e., \"What do people think about ZoomInfo's data accuracy?\"\n\n→ When ChatGPT reads Reddit, it frequently cites it\n\nReddit was cited on 73% of search turns where ChatGPT read its content. At the individual page level, Reddit's citation rate was 29%, which is roughly in line with the 31% average across other sources\n\nTL;DR, the decline in overall citations has more to do with ChatGPT retrieving Reddit for fewer types of questions, and not because it’s less relevant across the board so I'd tread lightly about completely dismissing Reddit.\n\nWhat I would DO if I were a marketer at a B2B SaaS company:\n\n(1) Avoid making decisions based on citation volume alone. Look at what ChatGPT retrieves for the questions your buyers are asking \n\n(2) Identify the buyer questions that trigger Reddit retrieval. Test prompts where buyers ask about real-world experiences, product reliability, implementation challenges, alternatives and customer satisfaction\n\n(3) Build a Reddit strategy around the threads where your target customers discuss the problems your product solves with real, valuable comments\n\nFind the full research in the comments or DM me if you have any qs.",
+  "img": null,
+  "ts": "2026-11-25T13:15:18.881000+00:00",
+  "col": "s",
+  "sum": "Discovered Labs analyzed 291,607 ChatGPT citations. Reddit's share fell from 0.35% to 0.12%, but ChatGPT has its own route that pulls up to 12 Reddit threads, now in about 1 in 4 search turns.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/neilkpatel_aisearch-seo-aimarketing-ugcPost-7531342059752812544-pKo1/",
+  "name": "Neil Patel",
+  "sub": "Co-Founder, Neil Patel Digital",
+  "avatar": "https://media.licdn.com/dms/image/v2/C5103AQFihp1Vzz6oCQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516255378406?e=2147483647&v=beta&t=UTj0Kvde2cLI0xl9MLqYgSTChhYtp3fSKUM2jN-gCSc",
+  "text": "Being cited and being chosen are two different wins. Stop tracking them as one. Did your content help build the answer? Did your brand make the shortlist? Did someone request a quote or book a demo? Three outcomes. Three different problems to fix.\n\n#AISearch #SEO #AIMarketing #ContentStrategy",
+  "img": null,
+  "ts": "2026-11-25T13:04:32.614000+00:00",
+  "col": "s",
+  "sum": "Neil Patel says being cited and being chosen are different wins. Track AI citations, brand shortlists and leads as three separate outcomes.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/jakezward/status/2125570770621407480",
+  "name": "Jake Ward",
+  "sub": "jakezward",
+  "avatar": "https://pbs.twimg.com/profile_images/1945104357462056961/CKvMooKj_bigger.jpg",
+  "text": "You need to pay attention to what Tally is doing in AI search right now because this might be the best playbook for getting recommended by ChatGPT I've seen:\n\n> 43% of new users find them through AI search (it's now their #1 acquisition channel)\n\n> 10,000+ new users every week",
+  "img": "https://pbs.twimg.com/media/HX-LTNQWQAAX2sD.jpg",
+  "likes": 39,
+  "replies": 14,
+  "ts": "2026-11-25T12:42:17+00:00",
+  "col": "s",
+  "sum": "Tally gets 43% of new users from AI search, now its top acquisition channel, with 10,000+ new users a week. Jake Ward breaks down how ChatGPT comes to recommend it.",
+  "themes": [
+   "traffic"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/rustybrick/status/2125565501594018020",
+  "name": "Barry Schwartz",
+  "sub": "rustybrick",
+  "avatar": "https://pbs.twimg.com/profile_images/1433030583144390668/FKJ9JkUA_bigger.jpg",
+  "text": "Google on inventory pages per geographic regions - fewer pages the better\n\nseroundtable.com/google-geograp…",
+  "img": null,
+  "likes": 8,
+  "replies": 5,
+  "ts": "2026-11-25T12:21:21+00:00",
+  "col": "g",
+  "sum": "Google says fewer inventory pages per geographic region are better.",
+  "themes": [
+   "local"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/anastasiia-andriienko-1a4456113_technicalseo-cloudflare-googlebot-ugcPost-7531300796098002944-cEEu/",
+  "name": "Anastasiia Andriienko",
+  "sub": "Founder, Single.Axiom",
+  "avatar": null,
+  "text": "Cloudflare was blocking Googlebot.And the impact went far beyond a few HTTP 403 errors 🤖\n\nIn October, I investigated a technical SEO issue where a website's security configuration was preventing Googlebot from accessing important pages.\nAfter a bot attack, the developer tightened Cloudflare's bot protection.\nBut legitimate search engine crawlers were getting blocked too.\n\nHere's what Google Search Console showed on October 28, before the fix:\n\n• The homepage and key category pages were reported as \"URL is not on Google\". Live URL Inspection returned HTTP 403.\n• Google couldn't fetch robots.txt.\n• The XML sitemap index couldn't be fetched.\n• As of October 24, Crawl Stats showed around 409,000 \"other client error (4XX)\" responses, with daily errors reaching approximately 60,000.\n• On October 25 (a Sunday), the website recorded just 476 clicks and 8,175 impressions.\n\nGooglebot couldn't reliably access the website, disrupting crawling and indexing.\n\nThe investigation led to Cloudflare's security rules.\nAn exception for known bots was already in place, but it wasn't enough to prevent other security restrictions from blocking Googlebot.\nTogether with the developer, we adjusted the configuration on October 28 to restore access for verified search engine crawlers.\nWe then checked HTTP responses for verified Google requests and monitored crawling in Search Console.\n\nAfter the fix:\n4XX crawl errors dropped to nearly zero within two days.\nGooglebot resumed crawling affected pages, and organic search performance gradually began to improve.\n\n📈 As of November 25, the latest seven-day data shows:\n• 4.85K clicks (+9% week over week)\n• 130K impressions (+4%)\n\nClicks are recovering, while impressions remain below pre-incident levels.\n\nThese numbers don't prove that the Cloudflare fix alone caused the improvement. But restoring crawler access was a necessary step.\n\nThe website continued working normally for regular visitors. It returned HTTP 200 to users while returning HTTP 403 to Googlebot.\n\nYou can spend weeks improving content and fixing internal links. But if Googlebot can't access those pages, it can't properly crawl the changes.\n\n‼️For anyone using Cloudflare, I'd recommend checking how security rules affect verified search engine crawlers, especially after changing bot protection settings.\n\nAnd don't rely only on whether the website loads in your browser. Check the HTTP responses Googlebot actually receives and monitor GSC Crawl Stats.\n\nHave you ever seen Cloudflare block Googlebot despite having an exception for known bots?\n\n#TechnicalSEO #Cloudflare #Googlebot #EcommerceSEO ",
+  "img": "https://media.licdn.com/dms/image/v2/D4E22AQFnS2_8vmfeEg/feedshare-shrink_800/B4EaISOKg0HUAo-/0/1795602032983?e=2147483647&v=beta&t=XUdPzrZkvEJYxxdW-4uUIHfWJ3wz1-KuALlTvTh8C5w",
+  "ts": "2026-11-25T10:20:34.592000+00:00",
+  "col": "s",
+  "sum": "Tighter Cloudflare bot rules blocked Googlebot on a client site. GSC showed 403 errors, no robots.txt or sitemap fetch, and about 409,000 4XX crawl responses.",
+  "themes": [
+   "agents"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/choudharymahendra_aeo-vs-traditional-seo-by-botpresso-ugcPost-7531294495452336128-et3q/",
+  "name": "Mahendra C.",
+  "sub": "Director of SEO Innovation, Botpresso",
+  "avatar": null,
+  "text": "𝗔𝗜 𝘀𝗲𝗮𝗿𝗰𝗵 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗷𝘂𝘀𝘁 ~𝟭% 𝗼𝗳 𝘁𝗿𝗮𝗳𝗳𝗶𝗰 𝗮𝗰𝗿𝗼𝘀𝘀 𝟰𝟵 𝘄𝗲𝗯𝘀𝗶𝘁𝗲𝘀. 𝗕𝘂𝘁 𝗶𝘁 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 ~𝟮.𝟱% 𝗼𝗳 𝗲𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗿𝗲𝘃𝗲𝗻𝘂𝗲.\n\nThat's one of the more interesting findings from our recent research at Botpresso published by Nitin Manchanda\n\nWe wanted to understand what actually changes when moving from traditional SEO to AEO (Answer Engine Optimisation). So we looked beyond theories and tested real-world data across websites, AI platforms and experiments.\n\nSome findings were particularly interesting.\n\n📊 𝗪𝗵𝗮𝘁 𝘁𝗵𝗲 𝗿𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗿𝗲𝘃𝗲𝗮𝗹𝗲𝗱:\n→ 𝗔𝗜 𝘀𝗲𝗮𝗿𝗰𝗵 𝘁𝗿𝗮𝗳𝗳𝗶𝗰: ~1% of total sessions but ~2.5% of eCommerce revenue across 49 websites over 30 days.\n→ 𝗡𝗶𝗰𝗵𝗲 𝗯𝗿𝗮𝗻𝗱𝘀: AI search contributed up to 16% of revenue for some smaller, specialised brands.\n→ 𝗕𝟮𝗕 𝗰𝗼𝗻𝘃𝗲𝗿𝘀𝗶𝗼𝗻𝘀: AI search visitors converted at 16.48%, compared to 7.27% from organic search. That's approximately 2.3x higher.\n→ 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀: 86% of the citations we analysed came from official platform documentation.\n→ 𝗚𝗲𝗺𝗶𝗻𝗶 𝗰𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀: 57% of citations pointed to just four pages.\n→ 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗜 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄𝘀: 32% of citations came from platforms such as YouTube, LinkedIn, Medium, Quora, Instagram and Reddit.\n\n🧪 𝗪𝗲 𝗮𝗹𝘀𝗼 𝘁𝗲𝘀𝘁𝗲𝗱 𝘀𝗼𝗺𝗲 𝗽𝗼𝗽𝘂𝗹𝗮𝗿 𝗔𝗘𝗢 𝗮𝘀𝘀𝘂𝗺𝗽𝘁𝗶𝗼𝗻𝘀. 𝗧𝗵𝗲 𝗿𝗲𝘀𝘂𝗹𝘁𝘀 𝘄𝗲𝗿𝗲 𝘂𝗻𝗲𝘅𝗽𝗲𝗰𝘁𝗲𝗱.\n→ llms.txt: We observed 823 LLM bot requests in our server logs, but zero requests to /llms.txt.\n→ 𝗦𝗰𝗵𝗲𝗺𝗮-𝗼𝗻𝗹𝘆 𝗳𝗮𝗰𝘁𝘀: Across four test pages, neither ChatGPT nor Claude returned the facts we had made available exclusively through structured data.\n\nSo, should businesses abandon traditional SEO and start optimising exclusively for AI search?\n𝗔𝗯𝘀𝗼𝗹𝘂𝘁𝗲𝗹𝘆 𝗻𝗼𝘁.\n\nOur research reinforces an important distinction.\n\n𝗦𝗘𝗢 𝗮𝗻𝗱 𝗔𝗘𝗢 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗲 𝘀𝗮𝗺𝗲 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗳𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻:\n• Crawlability and indexability\n• Site architecture and internal linking\n• Content quality and relevance\n• Clear, accessible information\nThe difference lies in what happens beyond that foundation.\n\nTraditional SEO focuses heavily on rankings, clicks and organic visibility.\n\nAEO adds another dimension: whether your content gets retrieved, understood, cited and mentioned in AI-generated answers.\nAnd that means your website is no longer the only surface that matters. Your brand's presence across documentation, communities, publications, social platforms and other authoritative sources also deserves attention.\n\n𝗧𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗶𝘀𝗻'𝘁 𝗦𝗘𝗢 𝘃𝗲𝗿𝘀𝘂𝘀 𝗔𝗘𝗢. 𝗜𝘁'𝘀 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗵𝗼𝘄 𝗯𝗼𝘁𝗵 𝘄𝗼𝗿𝗸 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.\n\nRead the full research, methodology, experiments and findings:\nhttps://lnkd.in/dzZ6suh2\n\n#SEO #AEO #GEO #AISearch #Botpresso",
+  "img": "https://media.licdn.com/dms/image/v2/D4D1FAQE3t1DaE1mBdQ/feedshare-document-cover-images_480/B4DaISIHGRGcBA-/0/1795600449070?e=2147483647&v=beta&t=aP9aUfbCUlZo_AKOt-Db7sjcX45e9b7Yu5r3sJPmlng\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4D1FAQE3t1DaE1mBdQ/feedshare-document-cover-images_480/B4DaISIHGRGcBA-/1/1795600449070?e=2147483647&v=beta&t=u1zh_Rv1OL7KadEhniTedeREWTvuicQ26XGAdcq7ea0\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4D1FAQE3t1DaE1mBdQ/feedshare-document-cover-images_480/B4DaISIHGRGcBA-/2/1795600449070?e=2147483647&v=beta&t=1LzUrc061lE8EkyJVMmYOdmPfIZckwDBz_SCtximzPo\"}}],\"enableTopbarAuthor\":false,\"inbugUrl\":\"https://www.linkedin.com/feed/update/urn:li:ugcPost:7531294495452336128\",\"height\":484,\"scanUnavailableOnAccessibilityModeTitle\":\"Sign",
+  "ts": "2026-11-25T09:55:32.401000+00:00",
+  "col": "s",
+  "sum": "Botpresso tracked 49 websites for 30 days. AI search brought about 1% of sessions but about 2.5% of eCommerce revenue, and B2B AI visitors converted at 16.48% vs 7.27% from organic search.",
+  "themes": [
+   "traffic"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/adriaan-dekker-google-ads-freelancer-rotterdam_news-share-7531285096918593538-gjm5/",
+  "name": "Adriaan Dekker",
+  "sub": "Google Ads specialist, Dertien11",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQFRJSFw00197w/profile-displayphoto-scale_400_400/B4EZ83_ueTJUAg-/0/1783350883806?e=2147483647&v=beta&t=Vch7Hdz1KGOAybCUMna4KMRGweDsmqcW3S2fbbIcA2I",
+  "text": "You can now generate holiday product images in Merchant Center.\n\nProduct Studio has a Generate image option. You upload your product photo, describe the product and describe the scene you want.\n\nFor the scene you can write your own prompt or pick a ready-made theme.\n\nThe path in your account: Creative content, then Product Studio, then Generate image.\n\nHana tested it with a few product images and got clean backgrounds, good lighting and seasonal settings that don't look forced.\n\nSpotted by Hana Kobzová.\n#news",
+  "img": null,
+  "ts": "2026-11-25T09:18:11.616000+00:00",
+  "col": "g",
+  "sum": "Merchant Center's Product Studio can now generate holiday product images. You upload a product photo and describe the product and the scene, or pick a ready-made theme.",
+  "themes": [
+   "ads"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/victoria-kurichenko_november-core-update-how-my-website-performance-ugcPost-7531241710350348288-uwBT/",
+  "name": "Victoria Kurichenko",
+  "sub": "Founder, Behind Rankings",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4E03AQE2PoNN9lFtwg/profile-displayphoto-scale_400_400/B4EZvl4MPnIkAg-/0/1769088272182?e=2147483647&v=beta&t=yJgd7oBBwRkWdtKGJg2FD1fHHnM_Pi2UaG0Sw0eLaXQ",
+  "text": "Going into Google's November 2026 core update, I had a pretty clear assumption: 👇\n\nGoogle would likely give more visibility to content that's harder to replicate, while listicles would continue to struggle.\n\nAnd that's pretty much what happened to my website, Behind Rankings:\n\nComparing the two GSC periods (Oct 23–Nov 9 vs. Nov 10–23), my 23 review-and-comparison blog posts gained 34% more daily clicks.  📈   Meanwhile, my 19 listicles lost 13% of daily clicks.   📉 \n\nBut here's what I found even more interesting: some of the reviews that gained clicks hadn't been updated in over a year!\n\nMy AI course creator tools article, beehiiv review, and Vocal Media review are good examples. All three gained clicks despite not receiving any major updates. 😄\n\nAs you'll see in the screenshots below, my Semrush ranking data shows a similar pattern. My review post rankings improved, while several of my main listicle keywords dropped.\n\nI documented all the details and performance changes in my latest blog post, including how my website's organic search performance and AI visibility changed during the November core update.\n\nIf you're curious about the numbers, screenshots, winners, and losers, check it out. The link in the comments. 👇\n\nHave you noticed any changes in your website's performance after this update? And what tools are you using to track them?  🤔 \n\n#googlecoreupdate #googlenovember2026coreupdate #aivisibility #aiseo #seo",
+  "img": "https://media.licdn.com/dms/image/v2/D561FAQHnr8hmd2SU8w/feedshare-document-cover-images_480/B56aIRXztsJEBE-/0/1795587784421?e=2147483647&v=beta&t=HcZGEtjSlOF1aZpUWixf7l5LwBw6XccCiKZpg-Sukhk\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D561FAQHnr8hmd2SU8w/feedshare-document-cover-images_480/B56aIRXztsJEBE-/1/1795587784421?e=2147483647&v=beta&t=ZtrbklZy8tYS8GEiXjnQMoShhwdQBOq0kt6bglQvcC4\"}}],\"enableTopbarAuthor\":false,\"inbugUrl\":\"https://www.linkedin.com/feed/update/urn:li:ugcPost:7531241710350348288\",\"height\":486,\"scanUnavailableOnAccessibilityModeTitle\":\"Sign",
+  "ts": "2026-11-25T06:25:47.452000+00:00",
+  "col": "s",
+  "sum": "Victoria Kurichenko compared GSC data before and during the November core update. Her 23 review and comparison posts gained 34% more daily clicks, while her 19 listicles lost 13%.",
+  "themes": [
+   "core",
+   "content"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/Kevin_Indig/status/2125326198096159049",
+  "name": "Kevin_Indig",
+  "sub": "Kevin_Indig",
+  "avatar": "https://pbs.twimg.com/profile_images/2028121904565960705/y0y5hAES_bigger.jpg",
+  "text": "More citations doesn't mean more referral traffic.\n\nI used Hubspot data to check citations and referral on the model level over time.\n\nThe surprising conclusion: The correlations (across several time comparisons) are negative, which means a model showing more citations leads to",
+  "img": "https://pbs.twimg.com/media/HX6s59fWwAAiktZ.jpg",
+  "likes": 19,
+  "replies": 20,
+  "ts": "2026-11-24T20:30:26+00:00",
+  "col": "s",
+  "sum": "More citations do not mean more referral traffic. Kevin Indig compared both per model over time with HubSpot data and found negative correlations.",
+  "themes": [
+   "traffic",
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/sundarpichai/status/2125311868168515603",
+  "name": "Sundar Pichai",
+  "sub": "sundarpichai",
+  "avatar": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_bigger.jpg",
+  "text": "Neon set a new Day-1 usage record on our paid APIs and @Antigravity tokens/day are ⬆️ 82% since Argon launched (only) 6 weeks ago.\n\nIt's been great to see the reception and thanks for all the model feedback including areas to improve - huge thanks to the teams across",
+  "img": null,
+  "likes": 17544,
+  "replies": 816,
+  "ts": "2026-11-24T19:33:30+00:00",
+  "col": "g",
+  "sum": "Gemini 4 Neon set a new day-1 usage record on Google's paid APIs, Sundar Pichai says. Antigravity tokens per day are up 82% in 6 weeks.",
+  "themes": [
+   "models"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/neilpatel/status/2125303546769817715",
+  "name": "Neil Patel",
+  "sub": "neilpatel",
+  "avatar": "https://pbs.twimg.com/profile_images/1502690164744732674/3w3KcZkt_bigger.jpg",
+  "text": "Search used to send people to your site. Now AI can help close the sale without them ever visiting it. Google AI Mode and Meta’s Muse can both check out from eligible Shopify stores. If you don’t control what AI sees about your products, you don’t control how it sells them.",
+  "img": "https://pbs.twimg.com/media/HX6YTuvXsAAAYCR.jpg",
+  "likes": 30,
+  "replies": 18,
+  "ts": "2026-11-24T19:00:26+00:00",
+  "col": "g",
+  "sum": "Google AI Mode and Meta's Muse can now check out from eligible Shopify stores. Neil Patel says brands must control what AI sees about their products.",
+  "themes": [
+   "ads",
+   "aimode"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/Marie_Haynes/status/2125288008098148371",
+  "name": "Marie Haynes",
+  "sub": "Marie_Haynes",
+  "avatar": "https://pbs.twimg.com/profile_images/1957228632415297537/fl2YY2tU_bigger.jpg",
+  "text": "Aaaaah...there's more. Another document published by Google today.\n\nThere are tips in here on getting mentioned in AI answers and AI Mode or used for grounding.\n\nThe document is called, \"Attribution and factuality in Search generative AI features.\"\n\nA few things I found",
+  "img": "https://pbs.twimg.com/media/HX6JaRLXUAArnee.jpg",
+  "likes": 322,
+  "replies": 29,
+  "ts": "2026-11-24T17:58:41+00:00",
+  "col": "g",
+  "sum": "Google published a new doc, 'Attribution and factuality in Search generative AI features'. Marie Haynes says it has tips on how to get mentioned in AIOs and AI Mode or used for grounding.",
+  "themes": [
+   "aimode",
+   "content"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/lilyraynyc/status/2125277329966715072",
+  "name": "Lily Ray 😏",
+  "sub": "lilyraynyc",
+  "avatar": "https://pbs.twimg.com/profile_images/1935460090821189632/UvkORAsU_bigger.jpg",
+  "text": "Looks like Reddit saw another big drop with this core update (via @sistrix)",
+  "img": "https://pbs.twimg.com/media/HX6Aap4XcAAW4_I.jpg",
+  "likes": 55,
+  "replies": 17,
+  "ts": "2026-11-24T17:16:15+00:00",
+  "col": "g",
+  "sum": "Sistrix data shows another big visibility drop for Reddit in the November core update.",
+  "themes": [
+   "core"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/glenngabe/status/2125270146923303180",
+  "name": "Glenn Gabe",
+  "sub": "glenngabe",
+  "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
+  "text": "More info today. Google has been busy :) \n\"When Google rolls out a significant ranking change or actionable policy update on the Search Status Dashboard, verified site owners can submit feedback directly in Google Search Console by clicking the Submit Feedback button. In the",
+  "img": null,
+  "likes": 29,
+  "replies": 8,
+  "ts": "2026-11-24T16:47:43+00:00",
+  "col": "g",
+  "sum": "When Google posts a significant ranking change or policy update on the Search Status Dashboard, verified site owners can now send feedback with a Submit Feedback button in GSC.",
+  "themes": [
+   "gsc",
+   "core"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/Marie_Haynes/status/2125263549446635786",
+  "name": "Marie Haynes",
+  "sub": "Marie_Haynes",
+  "avatar": "https://pbs.twimg.com/profile_images/1957228632415297537/fl2YY2tU_bigger.jpg",
+  "text": "It sounds like it there are going to be some big ranking changes soon.\n\nGoogle just preannounced the December 2026 core update. AND they published new documentation on ranking.\n\nRe the December core update:\n\n▪Will include multiple improvements in how Google's systems understand",
+  "img": "https://pbs.twimg.com/media/HX5zw1iXkAAhkQ-.jpg",
+  "likes": 341,
+  "replies": 29,
+  "ts": "2026-11-24T16:21:30+00:00",
+  "col": "g",
+  "sum": "Google preannounced the December 2026 core update and published new ranking docs on the same day. Marie Haynes expects big ranking changes soon.",
+  "themes": [
+   "core"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/rustybrick/status/2125261495290204296",
+  "name": "Barry Schwartz",
+  "sub": "rustybrick",
+  "avatar": "https://pbs.twimg.com/profile_images/1433030583144390668/FKJ9JkUA_bigger.jpg",
+  "text": "New Google Search Ranking Hub, Ranking Principles, Feedback & AI Training Control\n\nseroundtable.com/google-search-…",
+  "img": null,
+  "likes": 74,
+  "replies": 1,
+  "ts": "2026-11-24T16:13:20+00:00",
+  "col": "g",
+  "sum": "Google launched a Search Ranking hub with its ranking principles. It also added a way to send feedback on ranking changes and a control for AI training.",
+  "themes": [
+   "core",
+   "gsc"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/gaetano_nyc/status/2125259907490369590",
+  "name": "Gaetano DiNardi",
+  "sub": "gaetano_nyc",
+  "avatar": "https://pbs.twimg.com/profile_images/1589415051936530435/gA7-pctD_bigger.jpg",
+  "text": "I teamed up with Alex Birkett from Omniscient Digital. We pooled our Search Console data from 34 B2B portfolio sites to analyze organic traffic trends YoY.\n\nTLDR: On the typical B2B website, non-branded clicks fell 35% YoY, but branded clicks also fell 19%. Overall organic",
+  "img": "https://pbs.twimg.com/media/HX5v8BQWYAANEYM.jpg",
+  "likes": 57,
+  "replies": 10,
+  "ts": "2026-11-24T16:07:02+00:00",
+  "col": "s",
+  "sum": "Gaetano DiNardi and Alex Birkett pooled GSC data from 34 B2B sites. On the typical site, non-branded clicks fell 35% YoY and branded clicks fell 19%.",
+  "themes": [
+   "traffic",
+   "gsc"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/JoyanneHawkins/status/2125251025086910790",
+  "name": "Joy Hawkins",
+  "sub": "JoyanneHawkins",
+  "avatar": "https://pbs.twimg.com/profile_images/1605244992338919424/gVfOMp49_bigger.jpg",
+  "text": "Your rank tracker might say you’re near the top of the local pack, but that doesn’t mean your customers see it that way. @ColanNielsen found a case where the tracker showed the local pack sitting near the top of the page. When a real person searched the same keyword, four Google",
+  "img": "https://pbs.twimg.com/ext_tw_video_thumb/2125250799986999296/pu/img/PYWFyHHvMavX2fyd.jpg",
+  "likes": 9,
+  "replies": 4,
+  "ts": "2026-11-24T15:31:44+00:00",
+  "col": "s",
+  "sum": "Rank trackers can show the local pack higher on the page than customers see it. Colan Nielsen found a case where a real person's search looked very different from the tracker.",
+  "themes": [
+   "local"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/googlesearchc/status/2125241209077797206",
+  "name": "Google Search Central",
+  "sub": "googlesearchc",
+  "avatar": "https://pbs.twimg.com/profile_images/1326578374085472256/zBYZNAJN_bigger.jpg",
+  "text": "The November 2026 core update rollout was complete as of November 24, 2026: status.search.google.com/incidents/WLxc…",
+  "img": null,
+  "likes": 1000,
+  "replies": 88,
+  "ts": "2026-11-24T14:52:43+00:00",
+  "col": "g",
+  "sum": "Google confirmed that the November 2026 core update finished rolling out on Nov. 24.",
+  "themes": [
+   "core"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/semrush/status/2125229459229773900",
+  "name": "Semrush",
+  "sub": "semrush",
+  "avatar": "https://pbs.twimg.com/profile_images/2032094582213627906/KHSAmydp_bigger.jpg",
+  "text": "AI platforms are moving in opposite directions when it comes to citing social media and user-generated content.\n\nCombined citations to the 18 tracked UGC domains rose 52% across Google AI Overviews, AI Mode, and Gemini from January to August 2026, while ChatGPT citations fell",
+  "img": "https://pbs.twimg.com/media/HX5U7g9X0AAH4-l.jpg",
+  "likes": 18,
+  "replies": 7,
+  "ts": "2026-11-24T14:06:02+00:00",
+  "col": "s",
+  "sum": "Semrush tracked 18 UGC domains. Their citations grew 52% across AIOs, AI Mode and Gemini from January to August 2026, while their ChatGPT citations fell.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/iPullRank/status/2125229046103507305",
+  "name": "iPullRank Digital Marketing Agency",
+  "sub": "iPullRank",
+  "avatar": "https://pbs.twimg.com/profile_images/1131186632328134656/eoDXBqmV_bigger.png",
+  "text": "During Black Friday week 2025, publisher best-of lists grew from 62% to 78% of AI citations on Superstores shopping prompts. Brand websites didn’t gain.\n\nNew research from our BI team on what AI cites and when each model makes the change: ipullrank.com/black-friday-a…",
+  "img": "https://pbs.twimg.com/media/HX5UiEQWIAAcxn-.jpg",
+  "likes": 7,
+  "replies": 7,
+  "ts": "2026-11-24T14:04:24+00:00",
+  "col": "s",
+  "sum": "In Black Friday week 2025, publisher best-of lists grew from 62% to 78% of AI citations on superstore shopping prompts. Brand websites did not gain (iPullRank).",
+  "themes": [
+   "ads",
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/jakezward/status/2125228444531179554",
+  "name": "Jake Ward",
+  "sub": "jakezward",
+  "avatar": "https://pbs.twimg.com/profile_images/1945104357462056961/CKvMooKj_bigger.jpg",
+  "text": "Simple SEO hack:\n\n- Go to Google Search Console\n- Performance > Search results\n- Add filter > Query > Custom (regex)\n- Paste one of the 20 regex below\n- Find hidden keyword opportunities\n- Better target them in new or existing pages\n\nPS. You can skip the regex entirely with a",
+  "img": "https://pbs.twimg.com/media/HX5KTeJXQAAU-GL.jpg",
+  "likes": 252,
+  "replies": 20,
+  "ts": "2026-11-24T14:02:00+00:00",
+  "col": "g",
+  "sum": "Jake Ward shares 20 GSC regex filters that find hidden keyword opportunities to target in new or existing pages.",
+  "themes": [
+   "gsc"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/glenngabe/status/2125220662822260902",
+  "name": "Glenn Gabe",
+  "sub": "glenngabe",
+  "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
+  "text": "'Permission system directly into the browser' -> AI agents are getting out of control, and Google wants Chrome to step in                            \n\n\"The main goal is to introduce a permission system directly into the browser, so AI agents won't automatically have unrestricted",
+  "img": null,
+  "likes": 1,
+  "replies": 6,
+  "ts": "2026-11-24T13:31:05+00:00",
+  "col": "g",
+  "sum": "Google wants to add a permission system to Chrome, so AI agents do not get unrestricted access to the browser by default.",
+  "themes": [
+   "agents"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/sejournal/status/2125216618343002321",
+  "name": "SearchEngineJournal®",
+  "sub": "sejournal",
+  "avatar": "https://pbs.twimg.com/profile_images/2026045893024096256/LmcENam1_bigger.jpg",
+  "text": "The most-cited page on your site might be one your content team never thinks about.\n\nAn analysis of more than 883,000 Bing AI citations found that citations came from a much broader mix of pages than blog posts and product pages.\n\nMore from Jason Dodge: hubs.ly/Q04G12M10",
+  "img": "https://pbs.twimg.com/media/HX5JQFhWoAEbrHT.jpg",
+  "likes": 5,
+  "replies": 6,
+  "ts": "2026-11-24T13:15:01+00:00",
+  "col": "s",
+  "sum": "Jason Dodge analyzed 883,000+ Bing AI citations. The cited pages came from a much broader mix than blog posts and product pages.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/randfish/status/2125141054995472595",
+  "name": "Rand Fishkin",
+  "sub": "randfish",
+  "avatar": "https://pbs.twimg.com/profile_images/1642291634066030593/byujxuux_bigger.jpg",
+  "text": "NEW in @sparktoro: Share of Influence\n\nWhich channels are part of your buyer's journey? Are AI tools more influential for awareness or consideration? How about social? Search? Niche publications? YouTube? And how much relative to each other?\n\nStarting now, we've got the answer👇",
+  "img": "https://pbs.twimg.com/amplify_video_thumb/2125140316345024512/img/lJy_6PsNElkFxzgb.jpg",
+  "likes": 24,
+  "replies": 31,
+  "ts": "2026-11-24T08:14:45+00:00",
+  "col": "s",
+  "sum": "SparkToro launched Share of Influence. It shows how much AI tools, search, social, YouTube and niche publications each count in a buyer's journey.",
+  "themes": [
+   "traffic"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/JonasSickler/status/2125035052807672175",
+  "name": "Jonas Sickler",
+  "sub": "JonasSickler",
+  "avatar": "https://pbs.twimg.com/profile_images/1791096573817999361/VOLEchOm_bigger.jpg",
+  "text": "Google has been showing \"Reputation\" summaries in AIOs more frequently lately.\n\nThese sections often highlight unfavorable content for brands if they've had a surge of bad press or customer complaints.\n\nDefinitely worth keeping an eye on this trend.",
+  "img": "https://pbs.twimg.com/media/HX2kEUqWsAA3JOc.jpg",
+  "likes": 5,
+  "replies": 1,
+  "ts": "2026-11-24T01:13:32+00:00",
+  "col": "g",
+  "sum": "Google shows 'Reputation' summaries in AIOs more often. They often highlight bad press or customer complaints about a brand.",
+  "themes": [
+   "hydrogen"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/rustybrick/status/2125024423421878363",
+  "name": "Barry Schwartz",
+  "sub": "rustybrick",
+  "avatar": "https://pbs.twimg.com/profile_images/1433030583144390668/FKJ9JkUA_bigger.jpg",
+  "text": "Google Business Profiles adds self-serve control to appointment bookings and dining reservations (this is in addition to restaurant ordering services)\n\nseroundtable.com/google-busines…",
+  "img": null,
+  "likes": 20,
+  "replies": 9,
+  "ts": "2026-11-24T00:31:18+00:00",
+  "col": "g",
+  "sum": "GBP now gives businesses self-serve control over appointment bookings and dining reservations, in addition to restaurant ordering.",
+  "themes": [
+   "local"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/neilpatel/status/2125001505048563928",
+  "name": "Neil Patel",
+  "sub": "neilpatel",
+  "avatar": "https://pbs.twimg.com/profile_images/1502690164744732674/3w3KcZkt_bigger.jpg",
+  "text": "Google isn’t just running your ads anymore. It can help write them. AI Max can expand your keywords, generate new headlines from your landing pages, and choose which page people land on. Google says advertisers typically see 14% more conversions at a similar cost. Worth testing.",
+  "img": "https://pbs.twimg.com/media/HX2FmgCXUAAhYXT.jpg",
+  "likes": 28,
+  "replies": 10,
+  "ts": "2026-11-23T23:00:14+00:00",
+  "col": "g",
+  "sum": "Google's AI Max can expand keywords, write headlines from landing pages and pick the landing page. Google says advertisers typically see 14% more conversions at a similar cost.",
+  "themes": [
+   "ads"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/thsottiaux/status/2124998553856844186",
+  "name": "Tibo",
+  "sub": "thsottiaux",
+  "avatar": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_bigger.jpg",
+  "text": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by",
+  "img": null,
+  "likes": 5951,
+  "replies": 1151,
+  "ts": "2026-11-23T22:48:30+00:00",
+  "col": "c",
+  "sum": "OpenAI is rolling out a version of GPT-6.2 Sol in the ChatGPT Chat tab, made for everyday conversation. Tibo of OpenAI expects a big jump in answer quality.",
+  "themes": [
+   "models"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/lilyraynyc/status/2124988800094884106",
+  "name": "Lily Ray 😏",
+  "sub": "lilyraynyc",
+  "avatar": "https://pbs.twimg.com/profile_images/1935460090821189632/UvkORAsU_bigger.jpg",
+  "text": "After 3 years of rapid SEO growth, @sistrix shows Ramp.com’s SEO visibility falling. \n\n@ahrefs shows a similar decline in projected organic traffic. \n\nThe biggest drops I’m seeing in both tools come from the company's blog (/blog).\n\nThe decline began before",
+  "img": "https://pbs.twimg.com/media/HX14XswWwAAgtZ2.jpg",
+  "likes": 57,
+  "replies": 9,
+  "ts": "2026-11-23T22:09:44+00:00",
+  "col": "s",
+  "sum": "Sistrix and Ahrefs both show Ramp.com's SEO visibility falling after 3 years of fast growth. Lily Ray sees the biggest drops in its /blog folder.",
+  "themes": [
+   "core",
+   "content"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/lilyraynyc/status/2124979245562601671",
+  "name": "Lily Ray 😏",
+  "sub": "lilyraynyc",
+  "avatar": "https://pbs.twimg.com/profile_images/1935460090821189632/UvkORAsU_bigger.jpg",
+  "text": "Just read another LinkedIn post about how someone is scaling comparison, alternative and listicle pages with AI tools for GEO. \n\nChecked the site's trajectory using my new tool and was 0% surprised to see they were hit hard by this year's January 20 Google update.",
+  "img": "https://pbs.twimg.com/media/HX1w6cyXcAAGIsN.png",
+  "likes": 75,
+  "replies": 24,
+  "ts": "2026-11-23T21:31:47+00:00",
+  "col": "s",
+  "sum": "Lily Ray checked a site that scales comparison, alternative and listicle pages with AI tools for GEO. Google's January 20 update hit it hard.",
+  "themes": [
+   "content",
+   "debate"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/claudeai/status/2124970294523945328",
+  "name": "Claude",
+  "sub": "claudeai",
+  "avatar": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_bigger.jpg",
+  "text": "There’s now one way to connect your tools to Claude, teach it a new skill, or do both.\n\nConnectors and skills come together as plugins. Live on Free, Pro, Max, and Ultra plans, with Team and Enterprise coming soon.\n\nBrowse 10,000+ plugins: claude.ai/plugins",
+  "img": "https://pbs.twimg.com/media/HX1oJ7QWMAAVHKF.jpg",
+  "likes": 9723,
+  "replies": 471,
+  "ts": "2026-11-23T20:56:12+00:00",
+  "col": "t",
+  "sum": "Claude now combines connectors and skills into plugins. 10,000+ plugins are live on Free, Pro, Max and Ultra plans, with Team and Enterprise coming soon.",
+  "themes": [
+   "models",
+   "agents"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/glenngabe/status/2124967822795194757",
+  "name": "Glenn Gabe",
+  "sub": "glenngabe",
+  "avatar": "https://pbs.twimg.com/profile_images/1939273879274287104/XDnMSJi5_bigger.jpg",
+  "text": "I covered in October how Semrush discontinued Copilot tracking based on having trouble collecting the data. Well, now ahrefs is not tracking Copilot anymore. I just noticed this message today in Brand Radar. \n\n\"Copilot changed their policy, so we can't collect new data for now.",
+  "img": "https://pbs.twimg.com/media/HX1myepXgAEPIR5.png",
+  "likes": 15,
+  "replies": 12,
+  "ts": "2026-11-23T20:46:23+00:00",
+  "col": "s",
+  "sum": "Ahrefs Brand Radar no longer collects Copilot data because 'Copilot changed their policy'. Semrush stopped its Copilot tracking in October after data problems.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/aleyda/status/2124967810468352487",
+  "name": "Aleyda Solis 🕊️",
+  "sub": "aleyda",
+  "avatar": "https://pbs.twimg.com/profile_images/1803039284108083200/i0blVR4I_bigger.jpg",
+  "text": "👀 Interesting to see the opposite trends in citations from top cited domains: YouTube, Reddit, Facebook and Instagram across Google's AI Overviews (increasing) vs AI Mode (decreasing) in the US, since the release of Gemini 4 Hydrogen.\n\n(Data from @ahrefs  Brand Radar's tracked",
+  "img": "https://pbs.twimg.com/media/HX1m8CwW8AA9-J5.jpg",
+  "likes": 27,
+  "replies": 34,
+  "ts": "2026-11-23T20:46:20+00:00",
+  "col": "g",
+  "sum": "Ahrefs Brand Radar data shows citations to YouTube, Reddit, Facebook and Instagram growing in AIOs but falling in AI Mode in the US since Gemini 4 Hydrogen.",
+  "themes": [
+   "hydrogen",
+   "tracking"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/oliviamoore94_agents-may-be-the-biggest-distribution-opportunity-share-7530729959800283136-syhj/",
+  "name": "Olivia Moore",
+  "sub": "AI Partner, Andreessen Horowitz",
+  "avatar": null,
+  "text": "Agents may be the biggest distribution opportunity ever - working 24/7 on our behalf, with our wallets. How do you attract their attention? We Andreessen Horowitz partnered with The Prompting Company on more than 10,000 runs across the four leading agents - our takeaways 👇\n\n1. Lean in to use cases where your product \"spikes\". Agents have default picks (hero products) for general requests, and it's hard to break into this set. But, they're highly susceptible to marketing around specific use cases and personas - which may seem niche, but can add up. When asked for graphic design software, agents picked Canva in 78% of cases...this flipped to 100% for Adobe when the user specified pro-level output.\n\n2. Optimize for agent crawlers, not (just) human eyeballs. Agents look at a limited # of product pages before making a decision. They need to immediately be able to grok what you do, the cost, and what makes you unique. For software, this likely means having an API / MCP and docs. For physical products or services, this means no complex UI (even if it looks cool!) that takes the agents more time and tokens to navigate. \n\n3. Agents ruthlessly optimize value. Unlike humans, they'll fully load the cost of your product - subscription terms, return/cancel policy, warranties, shipping, etc. Things that work on people (ex. low first year price, spike after) will be sniffed out and penalized by agents. And, if you sell your product in more than one place, be cognizant of the fact that the agent will find the most efficient place to buy it. \n\n4. Each agent has its own tastes. Muse is price-conscious, while Dots looks for the best reviewed option...even at a premium. If you're a smaller business, Instinct may be your best bet, while GrokBot is a heavy Amazon customer. Marketing to one agent =/ marketing to them all, and agents also differ in how they display your products. It's worth testing visibility on every agent with real usage.\n\n5. Adapting to how agents transact will be an ongoing P0. Right now, agents heavily lean on their own catalogs for physical products, and browser use for software - and they NEED guest checkout. In the medium/long term, connectors and plug-ins may win. And, protocols are emerging around tokenized identity, fraud, and payments that will be important to adapt to. Platforms like Shopify are already doing a lot of this heavy lifting for their customers\n\nRead our full article for more, link in the comments!",
+  "img": null,
+  "ts": "2026-11-23T20:32:16.613000+00:00",
+  "col": "s",
+  "sum": "a16z and The Prompting Company ran 10,000+ tests on four leading AI agents. Agents pick Canva in 78% of graphic design requests, but Adobe in 100% when the user asks for pro-level output.",
+  "themes": [
+   "agents"
+  ]
+ },
+ {
+  "kind": "x",
+  "url": "https://x.com/lilyraynyc/status/2124923015330771455",
+  "name": "Lily Ray 😏",
+  "sub": "lilyraynyc",
+  "avatar": "https://pbs.twimg.com/profile_images/1935460090821189632/UvkORAsU_bigger.jpg",
+  "text": "These are 6 examples of different sites' subfolders and subdomains that have been dropping fast since Google's November core update started. \n\nHere's what they have in common:\n\n- the folders contain one template, repeated thousands of times. A-Z dictionary entries per word, one",
+  "img": "https://pbs.twimg.com/media/HX088oFWQAA48Yz.jpg",
+  "likes": 94,
+  "replies": 28,
+  "ts": "2026-11-23T17:48:20+00:00",
+  "col": "g",
+  "sum": "Lily Ray shows 6 subfolders and subdomains that drop fast in the November core update. Each one repeats a single template thousands of times, such as A-Z dictionary entries.",
+  "themes": [
+   "core",
+   "content"
+  ]
+ },
+ {
+  "kind": "x",
   "url": "https://x.com/glenngabe/status/2124913410651344979",
   "name": "Glenn Gabe",
   "sub": "glenngabe",
@@ -313,6 +973,21 @@
  },
  {
   "kind": "li",
+  "url": "https://www.linkedin.com/posts/michal-suski_sponsored-articles-in-ai-search-ugcPost-7530553566273650688-ZUMZ/",
+  "name": "Michał Suski",
+  "sub": "Co-founder, Surfer",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQGj8P3nhso-Gw/profile-displayphoto-scale_400_400/B4DZ1uPPHOJYAg-/0/1775670983875?e=2147483647&v=beta&t=JUYLufbMowzUXlMZSCaU9MjmmcHYXR0Lh_BqMo-M45A",
+  "text": "ChatGPT cites sites that sell sponsored articles 15% more often than comparable pages. \n\nPerplexity? 20% more. \n\nWant a shortcut to AI visibility? Here. \n\nData: Surfer's AI Tracker, ~123k domains that sell sponsored articles, 135.4M citations in 16.2M answers, Aug–Oct 2026. \n\nMy tip: going after ChatGPT or Perplexity? Buy on sites AI already cites. #GEO #SEO #AEO",
+  "img": "https://media.licdn.com/dms/image/v2/D4D1FAQHnNP50UxYuDg/feedshare-document-cover-images_480/B4DaIHmfMkJABA-/0/1795423860265?e=2147483647&v=beta&t=hOgurWCQjBPQaR_EXX-tHt2k8oxd5A_AwfelsOxpcnM\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4D1FAQHnNP50UxYuDg/feedshare-document-cover-images_480/B4DaIHmfMkJABA-/1/1795423860265?e=2147483647&v=beta&t=cQJ-XHomuSH1vQ2R-P4gJKebWHko-xcJ2DuyGCo6Kbw\"}},{\"type\":\"image\",\"config\":{\"src\":\"https://media.licdn.com/dms/image/v2/D4D1FAQHnNP50UxYuDg/feedshare-document-cover-images_480/B4DaIHmfMkJABA-/2/1795423860265?e=2147483647&v=beta&t=zjS3H-Rpr8sv_pkA_VOK6KJVw6XSBHT8UbBrY5ShQLQ\"}}],\"enableTopbarAuthor\":false,\"inbugUrl\":\"https://www.linkedin.com/feed/update/urn:li:ugcPost:7530553566273650688\",\"height\":492,\"scanUnavailableOnAccessibilityModeTitle\":\"Sign",
+  "ts": "2026-11-23T08:51:21.119000+00:00",
+  "col": "s",
+  "sum": "Surfer's AI Tracker data (135.4M citations, Aug. to Oct. 2026) shows that ChatGPT cites sites that sell sponsored articles 15% more often than similar pages. Perplexity cites them 20% more.",
+  "themes": [
+   "tracking"
+  ]
+ },
+ {
+  "kind": "li",
   "url": "https://www.linkedin.com/posts/davidkonitzny_google-ai-overviews-love-links-just-not-share-7530547777261559808-2bQY/",
   "name": "David Konitzny",
   "sub": "",
@@ -458,6 +1133,22 @@
   "sum": "OpenAI tests labeled ads next to images that ChatGPT makes, with a small group of US advertisers. A room design can now show a couch to buy.",
   "themes": [
    "ads"
+  ]
+ },
+ {
+  "kind": "li",
+  "url": "https://www.linkedin.com/posts/emilis-zabilius_we-run-a-lot-of-geo-experiments-at-agenzy-share-7530323156167847936-knLY/",
+  "name": "Emilis Zabilius",
+  "sub": "Founder, Agenzy",
+  "avatar": "https://media.licdn.com/dms/image/v2/D4D03AQF35olxj5g79w/profile-displayphoto-scale_400_400/B4DZ7q2qjhHQAg-/0/1782056663870?e=2147483647&v=beta&t=EgUL4ORgMUCesQcnccZrcLcu9wIK8IvKNjZ9KPzHWck",
+  "text": "We run a lot of GEO experiments at Agenzy and this one is really interesting and unexpected.\n\nI first heard about entity maps from Dixon Jones at brightonSEO, and we built one for agenzy.lt right after.\n\nThe AI models picked it up super fast. \nChatGPT was already pulling the page within three days, Google AI Overviews and Gemini followed a bit later, and today it's the second most retrieved page of our whole site in the ChatGPT answers we track, behind only the homepage.\n\nI see this as an opportunity for pretty much any business. You make one page that lists all of your entities, meaning your company, your people, your services, your prices and the terms you work with, each defined once and backed by passages from your own website, and then you keep it up to date.\n\nKeeping it up to date is the part that sounds like a lot of work, and by hand it would be, but with Claude and its connections to wordpress, framer and other website builders it's pretty simple, because you can send Claude a weekly note on what changed and it goes and updates the same entity map. \n\nWe run ours with Claude too. Whenever something on our site changes, Claude rebuilds the map and checks every passage against the live page, so nobody edits it by hand. \n\nWe're now building one for every client.\nI think it's very, very likely worth it. It's one more place where a business can earn a bit more from AI search, so if your company doesn't have a page like this yet, I'd build one this week;) | 94 comments on LinkedIn",
+  "img": "https://media.licdn.com/dms/image/v2/D4D22AQGGcGDUwlrPrg/feedshare-shrink_800/B4DaIEVAc4JcAg-/0/1795368945763?e=2147483647&v=beta&t=FYJ6sea6g7cHLPH00jBFh43mD02tdpm4StZfLLlNUHI",
+  "ts": "2026-11-22T17:35:47.069000+00:00",
+  "col": "s",
+  "sum": "Agenzy built one entity map page that lists its company, people, services, prices and terms. ChatGPT pulled it within three days, and it is now the second most retrieved page of the site in tracked ChatGPT answers.",
+  "themes": [
+   "content",
+   "tracking"
   ]
  },
  {

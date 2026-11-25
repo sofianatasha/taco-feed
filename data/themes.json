@@ -3,9 +3,9 @@
   "id": "core",
   "label": "Core update and spam",
   "lines": [
-   "The November Core Update is still rolling out, and Google added FAQs to its back button hijacking spam policy.",
-   "Glenn Gabe sees big surges and drops since about Nov. 13, and SERP trackers lost up to 98% of their data on Nov. 18 (Derek Perkins).",
-   "Judge drops in GSC, not Nov. 18 rank data, and audit scaled AI pages and thin location pages."
+   "The November 2026 core update finished on Nov. 24, and Google already preannounced a December core update.",
+   "Lily Ray shows folders that repeat one template thousands of times dropping fast, and Sistrix shows another big drop for Reddit.",
+   "Compare GSC data before and after Nov. 24, and audit templated, scaled AI and thin location pages before December."
   ]
  },
  {
@@ -21,17 +21,17 @@
   "id": "tracking",
   "label": "AI visibility tracking",
   "lines": [
-   "New studies show that AI citations change fast and differ by platform.",
-   "Ahrefs found that about 3 in 4 lost citations were temporary, and DataForSEO shows that AIOs cite YouTube most and ChatGPT cites Wikipedia most.",
-   "Report citation trends over two or three weeks, not single checks, and test YouTube for clients that invest in AI search."
+   "New studies show that AI citations change fast, differ by platform and do not always bring traffic.",
+   "Kevin Indig found negative links between citations and referral traffic per model, and Semrush saw UGC citations grow 52% in Google's AI tools while they fell in ChatGPT.",
+   "Report citation trends over two or three weeks, and judge AI visibility by traffic and leads, not citations alone."
   ]
  },
  {
   "id": "content",
   "label": "Content that earns visibility",
   "lines": [
-   "Google and SEO experts say generic content loses, while real expertise and original data win.",
-   "Think with Google told CMOs to stop generic 'Top 10' posts, and Cyrus Shepard's Ahrefs study of 535 sites found that blog posts did badly at earning links.",
+   "Google and SEO experts say generic and templated content loses, while real expertise and original data win.",
+   "In the November core update, Victoria Kurichenko's review posts gained 34% more daily clicks while her listicles lost 13%, and Lily Ray shows AI-scaled listicle sites hit hard.",
    "Check each planned post for first-hand knowledge, original data and a named expert before we write it."
   ]
  },
@@ -57,8 +57,8 @@
   "id": "aimode",
   "label": "AI Mode inside Search",
   "lines": [
-   "Google keeps adding to AI Mode: a sidebar for past chats, Dive Deeper links, Connected Apps and hotel booking.",
-   "Google also tests removing AI Mode from the top navigation, and desktop queries of 5+ words grew from 29.3% to 34.8% in a year (DataForSEO).",
+   "Google keeps adding to AI Mode: a sidebar for past chats, Dive Deeper links, Connected Apps and Shopify checkout.",
+   "Google published a doc on attribution and factuality in AIOs and AI Mode, and still tests removing AI Mode from the top navigation.",
    "Do not opt client sites out of AI features, since organic clicks dropped in Cyrus Shepard's opt-out test."
   ]
  },
@@ -66,9 +66,9 @@
   "id": "traffic",
   "label": "AI traffic and attribution",
   "lines": [
-   "Analytics undercount AI visits, and ChatGPT Business Hub gives very little data so far.",
-   "Nearly 7 in 10 US Google searches ended without a click from January to April, and Barry Schwartz had zero Business Hub data after a week.",
-   "Add a 'How did you hear about us?' field to client forms, and do not use Business Hub numbers as benchmarks yet."
+   "Analytics undercount AI visits, but AI visitors often convert better than organic visitors.",
+   "Botpresso found that AI search brought about 1% of sessions but 2.5% of eCommerce revenue across 49 sites, and Tally gets 43% of new users from AI search.",
+   "Add a 'How did you hear about us?' field to client forms, report AI leads and revenue, and do not use Business Hub numbers as benchmarks yet."
   ]
  },
  {
@@ -85,25 +85,25 @@
   "label": "AI ads and paid search",
   "lines": [
    "Ads, shopping results and coupon codes now show inside AI answers.",
-   "Writesonic found ads in 18.94% of ChatGPT answers on Nov. 16, and Microsoft confirmed Bing ads in AIOs in all markets except China.",
-   "Audit AI Max search terms, test the new PMax channel caps, and check client coupon and product prompts."
+   "Writesonic found ads in 18.94% of ChatGPT answers on Nov. 16, and ChatGPT adds 'Black Friday' to its searches only when the shopper asks (Metehan Yeşilyurt).",
+   "Audit AI Max search terms, and put Black Friday deals on the best-of and review pages that AI already finds."
   ]
  },
  {
   "id": "agents",
   "label": "AI agents and crawlers",
   "lines": [
-   "Google and Microsoft now build crawlers, tools and test webs for AI agents.",
-   "Google documented Google-Agent and 12 more crawlers and fetchers, and Nectiv found that 22% of 300 tech sites serve markdown to agents.",
-   "Check robots.txt rules and logs for the new agents and fetchers, and see which clients should apply for Connected Apps."
+   "Google, Microsoft and publishers now set new rules for AI agents and crawlers.",
+   "Google documented Google-Agent and 12 more fetchers and wants a Chrome permission system for agents, while Dow Jones now blocks all bots by default on WSJ.",
+   "Check robots.txt, firewall rules and logs for the new agents, and make sure bot protection never blocks Googlebot."
   ]
  },
  {
   "id": "gsc",
   "label": "Search Console and Google tags",
   "lines": [
-   "The Search Analytics API now labels queries as branded or non-branded, and Google Tags are now Tag Manager containers.",
-   "Kevin Indig sees bot traffic in GSC and GA4 for many clients, and Lily Ray got a warning after one Request Indexing click.",
+   "GSC now takes feedback on big ranking changes, the API labels branded queries, and Google Tags are now Tag Manager containers.",
+   "Gaetano DiNardi and Alex Birkett found that non-branded clicks fell 35% YoY across 34 B2B sites, and branded clicks fell 19%.",
    "Pull non-branded clicks from the API, and flag bot spikes before you report growth."
   ]
  },
@@ -120,8 +120,8 @@
   "id": "models",
   "label": "AI model and app launches",
   "lines": [
-   "Google released Gemini 4 Neon, after new models from OpenAI and Microsoft.",
-   "Gemini 4 Neon use on Perplexity grew 10.6% a day (Aravind Srinivas), and OpenAI says GPT-6.2 Astra writes shorter answers by default.",
+   "Google released Gemini 4 Neon, and OpenAI is rolling out GPT-6.2 Sol in the ChatGPT Chat tab.",
+   "Neon set a day-1 usage record on Google's paid APIs (Sundar Pichai), and Claude now bundles connectors and skills as plugins.",
    "Retest saved prompts on the new models, since answers and sources change."
   ]
  }

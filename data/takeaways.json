@@ -1,10 +1,10 @@
 {
  "items": [
-  {"theme": "core", "text": "The November Core Update still moves rankings, and Glenn Gabe sees scaled AI content drop hard. Judge drops in GSC, not Nov. 18 rank data, and audit thin location pages."},
-  {"theme": "hydrogen", "text": "In David Konitzny's data, only 51.8% of AIOs put the first link in the first third on Nov. 20, down from 76.8% in September. Recheck AIO citations for priority keywords."},
+  {"theme": "core", "text": "Google finished the November core update on Nov. 24 and already preannounced a December update. Compare GSC data before and after Nov. 24, and audit templated and thin pages now."},
+  {"theme": "ads", "text": "ChatGPT adds 'Black Friday' to its searches only when shoppers ask for it. Put e-commerce clients' deals on their best-of and review pages this week, not only on landing pages."},
   {"theme": "security", "text": "WordPress 7.1.5 fixes 18 flaws, and 7.2 ships Dec. 8 with a /random/ URL on by default. Update client sites now, and decide which ones need code to turn /random/ off."},
-  {"theme": "tracking", "text": "Ahrefs found that about 3 in 4 lost AI citations were temporary, and half came back within three days. Report citation trends over two or three weeks, not single checks."},
-  {"theme": "content", "text": "Google told CMOs that their content, not AI, made their brands invisible in Search. Check each planned post for first-hand knowledge, original data and a named expert before we write it."},
+  {"theme": "tracking", "text": "More AI citations do not mean more referral traffic, Kevin Indig found with HubSpot data. Report citation trends over weeks, and judge AI visibility by traffic and leads."},
+  {"theme": "content", "text": "In the November core update, Victoria Kurichenko's review posts gained 34% more daily clicks while her listicles lost 13%. Check each planned post for first-hand knowledge, original data and a named expert."},
   {"theme": "local", "text": "Since Nov. 16, Ask Maps can call local businesses to check open times and prices. Check each local client's GBP call setting, and tell staff that their answers go back to the customer."}
  ]
 }
