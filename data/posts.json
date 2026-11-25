@@ -158,6 +158,20 @@
   ]
  },
  {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-image-collections-ask-anything-ai-mode-42595.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Image Collections & Saved Items Adds Ask Anything AI Mode",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-25T07:31:00-05:00",
+  "col": "b",
+  "sum": "Google Images now shows an 'Ask anything' button in collections and saved items. It sends all the saved images to AI Mode in one question, and AI Mode labels those sources 'From your saved items' and 'Preferred'.",
+  "themes": [
+   "aimode"
+  ]
+ },
+ {
   "kind": "li",
   "url": "https://www.linkedin.com/posts/victoria-kurichenko_november-core-update-how-my-website-performance-ugcPost-7531241710350348288-uwBT/",
   "name": "Victoria Kurichenko",
@@ -467,6 +481,32 @@
   "sum": "SparkToro launched Share of Influence. It shows how much AI tools, search, social, YouTube and niche publications each count in a buyer's journey.",
   "themes": [
    "traffic"
+  ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/bing-ai-generated-answer-42598.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Bing AI Generated Answer - Different From AI Overviews/Copilot Search",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-24T07:51:00-05:00",
+  "col": "b",
+  "sum": "Bing tests a standalone 'AI-Generated answer' card on mobile and desktop. Barry Schwartz says it is different from Bing's AI Overviews and Copilot Search, and it sends users to sources through 'Learn more' links.",
+  "themes": []
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Business Profiles Appeals Simplified Into A Single Form",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-24T07:41:00-05:00",
+  "col": "b",
+  "sum": "Google replaced the multi-step appeal flow for suspended Google Business Profiles with one form. Ben Fisher of Steady Demand says you now get a case ID in less than 30 seconds.",
+  "themes": [
+   "local"
   ]
  },
  {
