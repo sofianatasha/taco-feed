@@ -1,5 +1,33 @@
 [
  {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/google-local-pack-no-reviews-bug-42624.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Google Local Pack No Reviews Bug",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-26T07:12:00-05:00",
+  "col": "b",
+  "sum": "Google shows 'No reviews' and no stars in the local pack for some businesses that do have reviews. Barry Schwartz can replicate it across many queries, and the reviews still show when you click the listing.",
+  "themes": [
+   "local"
+  ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics & More",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-25T17:40:00-05:00",
+  "col": "b",
+  "sum": "Eligible businesses outside the US can now publish a Business Agent in the ChatGPT Business Hub. ChatGPT Ads Manager and the Ads API also add Reach, Frequency, Unique CTR and Cost per 1,000 Reached, and single image ads now show a 'Learn more' link.",
+  "themes": [
+   "ads"
+  ]
+ },
+ {
   "kind": "x",
   "url": "https://x.com/glenngabe/status/2125591886937141625",
   "name": "Glenn Gabe",
@@ -156,6 +184,18 @@
   "themes": [
    "ads"
   ]
+ },
+ {
+  "kind": "blog",
+  "url": "https://www.seroundtable.com/bing-search-ask-visual-search-image-button-42590.html",
+  "name": "Search Engine Roundtable",
+  "sub": "seroundtable.com",
+  "title": "Bing Image Search Ask Visual Search Button",
+  "logo": "https://www.google.com/s2/favicons?domain=seroundtable.com&sz=128",
+  "ts": "2026-11-25T07:41:00-05:00",
+  "col": "b",
+  "sum": "Bing tests an Ask button with a Copilot icon on image results. It opens an 'Ask anything about this image' box inside the SERP. Khushal Bherwani spotted it, and Barry Schwartz could not replicate it yet.",
+  "themes": []
  },
  {
   "kind": "blog",
